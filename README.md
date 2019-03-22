@@ -13,3 +13,7 @@ This repo contains my notes for research papers that I've read. Papers are numbe
 Each note contains **main idea**, **contributions** and **takeaways**.
 
 All papers are included in my previous repo [papers](https://github.com/BryanBo-Cao/papers), which is set to private since it contains papers that need purchased. However, the original papers that are public available without any purchase can be found in the link along with the title of the paper.
+
+# Recent Notes
+2019 Mar
+- Active Contours Without Edges [[repo](https://github.com/BryanBo-Cao/papers/blob/master/Papers/Transactions/IP/IP_2001/Active%20Contours%20Without%20Edges.pdf)] [[link](http://www.math.ucla.edu/~lvese/PAPERS/IEEEIP2001.pdf)] (1)
