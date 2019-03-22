@@ -17,3 +17,4 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 # Recent Notes
 2019 Mar
 - Active Contours Without Edges [[repo](https://github.com/BryanBo-Cao/papers/blob/master/Papers/Transactions/IP/IP_2001/Active%20Contours%20Without%20Edges.pdf)] [[link](http://www.math.ucla.edu/~lvese/PAPERS/IEEEIP2001.pdf)] (1)
+- Automatic Delineation of the Myocardial Wall from CT Images via Shape Segmentation and Variational Region Growing [[repo](https://github.com/BryanBo-Cao/papers/blob/195145f32d66d17958af11c2451b2c0e3e374e5b/Papers/Transactions/BE/BE_2013/Automatic%20Delineation%20of%20the%20Myocardial%20Wall%20from%20CT%20Images%20via%20Shape%20Segmentation%20and%20Variational%20Region%20Growing.pdf)] [[link](https://ieeexplore.ieee.org/document/6523066)] (1)
