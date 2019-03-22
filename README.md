@@ -10,6 +10,8 @@ This repo contains my notes for research papers that I've read. Papers are numbe
 - (4) means (3) + details of the experiments.
 - (5) means (4) + I feel confident that I understand almost everything about the paper.
 
+In addition, (0) is used simply to indicate papers that are in the "toread" list.
+
 Each note contains **main idea**, **contributions** and **takeaways**.
 
 In terms of articles or research posts that are not published in peer review conference or journel, they are numbered on a (1) to (5) scale as well to indicate the extent to which I understand the content.
