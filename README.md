@@ -12,6 +12,8 @@ This repo contains my notes for research papers that I've read. Papers are numbe
 
 Each note contains **main idea**, **contributions** and **takeaways**.
 
+In terms of articles or research posts that are not published in peer review conference or journel, they are numbered on a (1) to (5) scale as well to indicate the extent to which I understand the content.
+
 All papers are included in my previous repo [papers](https://github.com/BryanBo-Cao/papers), which is set to private since it contains papers that need purchased. However, the original papers that are public available without any purchase can be found in the link along with the title of the paper.
 
 # Recent Notes
