@@ -21,6 +21,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 # Recent Notes
 
 2019 Apr
+- FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/42a67903c02a3651bbbd6c4d4b2e73c30e3cd331/confs/CVPR/CVPR_2018/FoldingNet-%20Point%20Cloud%20Auto-encoder%20via%20Deep%20Grid%20Deformation.pdf)] (1)
 - Action Anticipation with RBF Kernelized Feature Mapping RNN [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/48df36a0d8d1337ee0b09a1e4db40383701224c5/confs/ECCV/ECCV_2018/Action%20Anticipation%20with%20RBF%20Kernelized%20Feature%20Mapping%20RNN.pdf)] (2)
 
 2019 Mar
