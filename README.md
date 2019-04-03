@@ -19,6 +19,10 @@ In terms of articles or research posts that are not published in peer review con
 All papers are included in my previous repo [papers](https://github.com/BryanBo-Cao/papers), which is set to private since it contains papers that need purchased. However, the original papers that are public available without any purchase can be found in the link along with the title of the paper.
 
 # Recent Notes
+
+2019 Apr
+- Action Anticipation with RBF Kernelized Feature Mapping RNN [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/48df36a0d8d1337ee0b09a1e4db40383701224c5/confs/ECCV/ECCV_2018/Action%20Anticipation%20with%20RBF%20Kernelized%20Feature%20Mapping%20RNN.pdf)] (2)
+
 2019 Mar
 - Decomposing Motion and Content for Natural Video Sequence Prediction [[note](https://github.com/BryanBo-Cao/open-papernotes/blob/master/notes/confs/ICLR/ICLR_2017/Decomposing%20Motion%20and%20Content%20for%20Natural%20Video%20Sequence%20Prediction/Decomposing%20Motion%20and%20Content%20for%20Natural%20Video%20Sequence%20Prediction.md)] [[paper](https://openreview.net/pdf?id=rkEFLFqee)] [[review](https://openreview.net/forum?id=rkEFLFqee)] [[code](https://github.com/rubenvillegas/iclr2017mcnet)] [[my slide](https://docs.google.com/presentation/d/16yarcnWfvO_a7u1UB2bO4eVtusRBxFs6cFOGvaDNH-0/edit?usp=sharing)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2017/Decomposing%20Motion%20and%20Content%20for%20Natural%20Video%20Sequence%20Prediction/Decomposing%20Motion%20and%20Content%20for%20Natural%20Video%20Sequence%20Prediction.pdf)] (3)
 - Reward Learning from Human Preferences and Demonstrations in Atari [[paper](https://arxiv.org/pdf/1811.06521.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NeurIPS_2018/Reward%20Learning%20from%20Human%20Preferences%20and%20Demonstrations%20in%20Atari.pdf)] (1)
