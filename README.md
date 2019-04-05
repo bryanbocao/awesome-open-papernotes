@@ -21,6 +21,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 # Recent Notes
 
 2019 Apr
+- PoTion: Pose MoTion Representation for Action Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choutas_PoTion_Pose_MoTion_CVPR_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/PoTion-%20Pose%20MoTion%20Representation%20for%20Action%20Recognition.pdf)] (1)
 - ContextVP: Fully Context-Aware Video Prediction [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2018/ContextVP-%20Fully%20Context-Aware%20Video%20Prediction.pdf)] (1)
 - Flow-Grounded Spatial-Temporal Video Prediction from Still Images [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yijun_Li_Flow-Grounded_Spatial-Temporal_Video_ECCV_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/99cf937756155db1fa15f0867a092905bcd232fa/confs/ECCV/ECCV_2018/Flow-Grounded%20Spatial-Temporal%20Video%20Prediction%20from%20Still%20Images.pdf)] (1)
 - Two-Stream Convolutional Networks for Action Recognition in Videos [[paper](https://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NIPS_2014/Two-Stream%20Convolutional%20Networks%20for%20Action%20Recognition%20in%20Videos.pdf)] (1)
