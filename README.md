@@ -21,6 +21,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 # Recent Notes
 
 2019 Apr
+- M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network [[paper](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhaoQ.2025.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/594a181a294b7ef7433a4cf9c0d3f783b6612417/confs/AAAI/AAAI_2018/M2Det-%20A%20Single-Shot%20Object%20Detector%20based%20on%20Multi-Level%20Feature%20Pyramid%20Network.pdf)] (1)
 - PoTion: Pose MoTion Representation for Action Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choutas_PoTion_Pose_MoTion_CVPR_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/PoTion-%20Pose%20MoTion%20Representation%20for%20Action%20Recognition.pdf)] (1)
 - ContextVP: Fully Context-Aware Video Prediction [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2018/ContextVP-%20Fully%20Context-Aware%20Video%20Prediction.pdf)] (1)
 - Flow-Grounded Spatial-Temporal Video Prediction from Still Images [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yijun_Li_Flow-Grounded_Spatial-Temporal_Video_ECCV_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/99cf937756155db1fa15f0867a092905bcd232fa/confs/ECCV/ECCV_2018/Flow-Grounded%20Spatial-Temporal%20Video%20Prediction%20from%20Still%20Images.pdf)] (1)
