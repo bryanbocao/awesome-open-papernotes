@@ -19,6 +19,8 @@ In terms of articles or research posts that are not published in peer review con
 All papers are included in my previous repo [papers](https://github.com/BryanBo-Cao/papers), which is set to private since it contains papers that need purchased. However, the original papers that are public available without any purchase can be found in the link along with the title of the paper.
 
 # Recent Notes
+2019 May
+- AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures [[paper](https://arxiv.org/pdf/1905.13209.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/AssembleNet-%20Searching%20for%20Multi-Stream%20Neural%20Connectivity%20in%20Video%20Architectures.pdf)] (1)
 
 2019 Apr
 - Path Aggregation Network for Instance Segmentation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Path_Aggregation_Network_CVPR_2018_paper.pdf)] [[code](https://github.com/ShuLiu1993/PANet)] [[pwd](https://paperswithcode.com/paper/path-aggregation-network-for-instance#code)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/Path%20Aggregation%20Network%20for%20Instance%20Segmentation.pdf)] (1)
