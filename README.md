@@ -20,6 +20,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 # Recent Notes
 2019 May
+- Learning Latent Super-Events to Detect Multiple Activities in Videos [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Piergiovanni_Learning_Latent_Super-Events_CVPR_2018_paper.pdf)] [[code](https://github.com/piergiaj/super-events-cvpr18)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/Learning%20Latent%20Super-Events%20to%20Detect%20Multiple%20Activities%20in%20Videos.pdf)] (1)
 - AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures [[paper](https://arxiv.org/pdf/1905.13209.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/AssembleNet-%20Searching%20for%20Multi-Stream%20Neural%20Connectivity%20in%20Video%20Architectures.pdf)] (1)
 
 2019 Apr
