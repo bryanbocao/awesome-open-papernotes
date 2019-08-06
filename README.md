@@ -20,6 +20,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 # Recent Notes
 2019 May
+- Robust Physical-World Attacks on Deep Learning Visual Classification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/Robust%20Physical-World%20Attacks%20on%20Deep%20Learning%20Visual%20Classification.pdf)] (1)
 - Learning Robot Activities from First-Person Human Videos Using Convolutional Future Regression [[paper](https://arxiv.org/pdf/1703.01040.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Learning%20Robot%20Activities%20from%20First-Person%20Human%20Videos%20Using%20Convolutional%20Future%20Regression.pdf)] (1)
 - Learning Real-World Robot Policies by Dreaming [[paper](https://arxiv.org/pdf/1805.07813.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Learning%20Real-World%20Robot%20Policies%20by%20Dreaming.pdf)] (1)
 - Learning Latent Super-Events to Detect Multiple Activities in Videos [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Piergiovanni_Learning_Latent_Super-Events_CVPR_2018_paper.pdf)] [[code](https://github.com/piergiaj/super-events-cvpr18)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/Learning%20Latent%20Super-Events%20to%20Detect%20Multiple%20Activities%20in%20Videos.pdf)] (1)
