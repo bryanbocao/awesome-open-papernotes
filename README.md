@@ -19,10 +19,13 @@ In terms of articles or research posts that are not published in peer review con
 All papers are included in my previous repo [papers](https://github.com/BryanBo-Cao/papers), which is set to private since it contains papers that need purchased. However, the original papers that are public available without any purchase can be found in the link along with the title of the paper.
 
 # Recent Notes
-2019 May
+2019 Aug
+- Non-Rigid 2D-3D Pose Estimation and 2D Image Segmentation [[paper](https://smartech.gatech.edu/bitstream/handle/1853/32150/2009_IEEE_CVPR_001.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2009/Non-Rigid%202D-3D%20Pose%20Estimation%20and%202D%20Image%20Segmentation.pdf)] (1)
 - Robust Physical-World Attacks on Deep Learning Visual Classification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/Robust%20Physical-World%20Attacks%20on%20Deep%20Learning%20Visual%20Classification.pdf)] (1)
 - Learning Robot Activities from First-Person Human Videos Using Convolutional Future Regression [[paper](https://arxiv.org/pdf/1703.01040.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Learning%20Robot%20Activities%20from%20First-Person%20Human%20Videos%20Using%20Convolutional%20Future%20Regression.pdf)] (1)
 - Learning Real-World Robot Policies by Dreaming [[paper](https://arxiv.org/pdf/1805.07813.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Learning%20Real-World%20Robot%20Policies%20by%20Dreaming.pdf)] (1)
+
+2019 Jul
 - Learning Latent Super-Events to Detect Multiple Activities in Videos [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Piergiovanni_Learning_Latent_Super-Events_CVPR_2018_paper.pdf)] [[code](https://github.com/piergiaj/super-events-cvpr18)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/Learning%20Latent%20Super-Events%20to%20Detect%20Multiple%20Activities%20in%20Videos.pdf)] (1)
 - AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures [[paper](https://arxiv.org/pdf/1905.13209.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/AssembleNet-%20Searching%20for%20Multi-Stream%20Neural%20Connectivity%20in%20Video%20Architectures.pdf)] (1)
 
