@@ -20,6 +20,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 # Recent Notes
 2019 Aug
+- Guiding Image Segmentation On The Fly: Interactive Segmentation From A Feedback Control Perspective [[paper](https://ieeexplore.ieee.org/document/8253891)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/TAC/TAC_2018/Guiding%20Image%20Segmentation%20On%20The%20Fly-%20Interactive%20Segmentation%20From%20A%20Feedback%20Control%20Perspective.pdf)] (1)
 - Non-Rigid 2D-3D Pose Estimation and 2D Image Segmentation [[paper](https://smartech.gatech.edu/bitstream/handle/1853/32150/2009_IEEE_CVPR_001.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2009/Non-Rigid%202D-3D%20Pose%20Estimation%20and%202D%20Image%20Segmentation.pdf)] (1)
 - Robust Physical-World Attacks on Deep Learning Visual Classification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/Robust%20Physical-World%20Attacks%20on%20Deep%20Learning%20Visual%20Classification.pdf)] (1)
 - Learning Robot Activities from First-Person Human Videos Using Convolutional Future Regression [[paper](https://arxiv.org/pdf/1703.01040.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Learning%20Robot%20Activities%20from%20First-Person%20Human%20Videos%20Using%20Convolutional%20Future%20Regression.pdf)] (1)
