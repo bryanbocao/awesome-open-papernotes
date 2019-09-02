@@ -19,6 +19,9 @@ In terms of articles or research posts that are not published in peer review con
 All papers are included in my previous repo [papers](https://github.com/BryanBo-Cao/papers), which is set to private since it contains papers that need purchased. However, the original papers that are public available without any purchase can be found in the link along with the title of the paper.
 
 # Recent Notes
+2019 Sep
+- Learning to Drive from Simulation without Real World Labels [[paper](https://arxiv.org/pdf/1812.03823.pdf)] [[blog](https://wayve.ai/blog/sim2real)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICRA/ICRA_2019/Learning%20to%20Drive%20from%20Simulation%20without%20Real%20World%20Labels.pdf)]  (1)
+
 2019 Aug
 - An Integrity Framework for Image-Based Navigation Systems [[paper](https://apps.dtic.mil/dtic/tr/fulltext/u2/a521253.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/dissertations/An%20Integrity%20Framework%20for%20Image-Based%20Navigation%20Systems.pdf)] (1)
 - Forman-Ricci Flow for Change Detection in Large Dynamic Data Sets [[paper](https://www.mdpi.com/2075-1680/5/4/26/pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Forman-Ricci%20Flow%20for%20Change%20Detection%20in%20Large%20Dynamic%20Data%20Sets.pdf)] (1)
