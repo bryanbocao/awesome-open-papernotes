@@ -19,6 +19,9 @@ In terms of articles or research posts that are not published in peer review con
 All papers are included in my previous repo [papers](https://github.com/BryanBo-Cao/papers), which is set to private since it contains papers that need purchased. However, the original papers that are public available without any purchase can be found in the link along with the title of the paper.
 
 # Recent Notes
+2019 Oct
+- Model-Based Robot Imitation with Future Image Similarity, IJCV 2019 [[paper](https://link.springer.com/article/10.1007/s11263-019-01238-5)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journels/IJCV/IJCV_2019/Model-Based%20Robot%20Imitation%20with%20Future%20Image%20Similarity.pdf)] (1)
+
 2019 Sep
 - Asymmetric Actor Critic for Image-Based Robot Learning, RSS 2018 [[paper](http://www.roboticsproceedings.org/rss14/p08.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/RSS/RSS_2018/Asymmetric%20Actor%20Critic%20for%20Image-Based%20Robot%20Learning.pdf)] (1)
 - Asynchronous Methods for Deep Reinforcement Learning, ICML 2016 [[paper](http://proceedings.mlr.press/v48/mniha16.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICML/ICML_2016/Asynchronous%20Methods%20for%20Deep%20Reinforcement%20Learning.pdf)] (1)
