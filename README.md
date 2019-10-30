@@ -20,6 +20,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 # Recent Notes
 2019 Oct
+- Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution, CVPR 2019 [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Drop_an_Octave_Reducing_Spatial_Redundancy_in_Convolutional_Neural_Networks_ICCV_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/Drop%20an%20Octave-%20Reducing%20Spatial%20Redundancy%20in%20Convolutional%20Neural%20Networks%20with%20Octave%20Convolution.pdf)] (1)
 - Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression, CVPR 2019 [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Rezatofighi_Generalized_Intersection_Over_Union_A_Metric_and_a_Loss_for_CVPR_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2019/Generalized%20Intersection%20over%20Union-%20A%20Metric%20and%20A%20Loss%20for%20Bounding%20Box%20Regression.pdf)] (1)
 - Model-Based Robot Imitation with Future Image Similarity, IJCV 2019 [[paper](https://link.springer.com/article/10.1007/s11263-019-01238-5)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journels/IJCV/IJCV_2019/Model-Based%20Robot%20Imitation%20with%20Future%20Image%20Similarity.pdf)] (1)
 
