@@ -4,7 +4,7 @@ This idea of paper notes was inspired by [Hongjie Peng](https://scholar.google.c
 
 This repo contains my notes for research papers that I've read. Papers are numbered on a (1) to (5) scale where
 
-- (1) means I have only barely skimmed it.
+- (1) means I have only barely skimmed it or listened to the presentation.
 - (2) means (1) + I understand the main idea and the main contributions to the literature.
 - (3) means (2) + related works.
 - (4) means (3) + details of the experiments.
@@ -20,6 +20,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 # Recent Notes
 2019 Oct
+- Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression, CVPR 2019 [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Rezatofighi_Generalized_Intersection_Over_Union_A_Metric_and_a_Loss_for_CVPR_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2019/Generalized%20Intersection%20over%20Union-%20A%20Metric%20and%20A%20Loss%20for%20Bounding%20Box%20Regression.pdf)] (1)
 - Model-Based Robot Imitation with Future Image Similarity, IJCV 2019 [[paper](https://link.springer.com/article/10.1007/s11263-019-01238-5)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journels/IJCV/IJCV_2019/Model-Based%20Robot%20Imitation%20with%20Future%20Image%20Similarity.pdf)] (1)
 
 2019 Sep
