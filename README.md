@@ -19,6 +19,9 @@ In terms of articles or research posts that are not published in peer review con
 All papers are included in my previous repo [papers](https://github.com/BryanBo-Cao/papers), which is set to private since it contains papers that need purchased. However, the original papers that are public available without any purchase can be found in the link along with the title of the paper.
 
 # Recent Notes
+2019 Nov
+- Model-based Behavioral Cloning with Future Image Similarity Learning [[paper](https://arxiv.org/pdf/1910.03157.pdf)] [[code](https://github.com/anwu21/future-image-similarity)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Model-based%20Behavioral%20Cloning%20with%20Future%20Image%20Similarity%20Learning.pdf)] (1)
+
 2019 Oct
 - Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution, CVPR 2019 [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Drop_an_Octave_Reducing_Spatial_Redundancy_in_Convolutional_Neural_Networks_ICCV_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/Drop%20an%20Octave-%20Reducing%20Spatial%20Redundancy%20in%20Convolutional%20Neural%20Networks%20with%20Octave%20Convolution.pdf)] (1)
 - Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression, CVPR 2019 [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Rezatofighi_Generalized_Intersection_Over_Union_A_Metric_and_a_Loss_for_CVPR_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2019/Generalized%20Intersection%20over%20Union-%20A%20Metric%20and%20A%20Loss%20for%20Bounding%20Box%20Regression.pdf)] (1)
