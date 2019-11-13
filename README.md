@@ -20,6 +20,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 # Recent Notes
 2019 Nov
+- An Empirical Study of Example Forgetting during Deep Neural Network Learning [[paper](https://openreview.net/pdf?id=BJlxm30cKm)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2019/An%20Empirical%20Study%20of%20Example%20Forgetting%20during%20Deep%20Neural%20Network%20Learning.pdf)] (1)
 - Deep Hough Voting for 3D Object Detection in Point Clouds [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf)] [[code](https://github.com/qq456cvb/VoteNet)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/Deep%20Hough%20Voting%20for%203D%20Object%20Detection%20in%20Point%20Clouds.pdf)] (1)
 - Motion Perception in Reinforcement Learning with Dynamic Objects [[paper](http://proceedings.mlr.press/v87/amiranashvili18a/amiranashvili18a.pdf)] [[code](https://github.com/lmb-freiburg/flow_rl)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CoRL/CoRL_2018/Motion%20Perception%20in%20Reinforcement%20Learning%20with%20Dynamic%20Objects.pdf)] (1)
 - Tiny Video Networks [[paper](https://arxiv.org/pdf/1910.06961.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Tiny%20Video%20Networks.pdf)] (1)
