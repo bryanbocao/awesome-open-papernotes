@@ -20,6 +20,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 # Recent Notes
 2019 Nov
+- On Evaluation of Embodied Navigation Agents [[paper](https://arxiv.org/pdf/1807.06757.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/On%20Evaluation%20of%20Embodied%20Navigation%20Agents.pdf)] (1)
 - Data-Efficient Hierarchical Reinforcement Learning [[paper](https://papers.nips.cc/paper/7591-data-efficient-hierarchical-reinforcement-learning.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NeurIPS_2018/Data-Efficient%20Hierarchical%20Reinforcement%20Learning.pdf)] (1)
 - Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Holistic_Scene_Understanding_Single-View_3D_Holistic_Scene_Parsing_and_Human_ICCV_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/Holistic%2B%2B%20Scene%20Understanding-%20Single-view%203D%20Holistic%20Scene%20Parsing%20and%20Human%20Pose%20Estimation%20with%20Human-Object%20Interaction%20and%20Physical%20Commonsense.pdf)] (1)
 - An Empirical Study of Example Forgetting during Deep Neural Network Learning [[paper](https://openreview.net/pdf?id=BJlxm30cKm)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2019/An%20Empirical%20Study%20of%20Example%20Forgetting%20during%20Deep%20Neural%20Network%20Learning.pdf)] (1)
