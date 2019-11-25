@@ -20,6 +20,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 # Recent Notes
 2019 Nov
+- Multi-Agent Manipulation via Locomotion using Hierarchical Sim2Real [[paper](https://arxiv.org/pdf/1908.05224.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Multi-Agent%20Manipulation%20via%20Locomotion%20using%20Hierarchical%20Sim2Real.pdf)] (1)
 - Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World [[paper](https://arxiv.org/pdf/1703.06907.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/IROS/IROS_2017/Domain%20Randomization%20for%20Transferring%20Deep%20Neural%20Networks%20from%20Simulation%20to%20the%20Real%20World.pdf)] (1)
 - On Evaluation of Embodied Navigation Agents [[paper](https://arxiv.org/pdf/1807.06757.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/On%20Evaluation%20of%20Embodied%20Navigation%20Agents.pdf)] (1)
 - Data-Efficient Hierarchical Reinforcement Learning [[paper](https://papers.nips.cc/paper/7591-data-efficient-hierarchical-reinforcement-learning.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NeurIPS_2018/Data-Efficient%20Hierarchical%20Reinforcement%20Learning.pdf)] (2)
