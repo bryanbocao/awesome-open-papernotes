@@ -20,6 +20,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 # Recent Notes
 2019 Nov
+- Visual Semantic Navigation Using Scene Priors [[paper](https://openreview.net/pdf?id=HJeRkh05Km)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2019/Visual%20Semantic%20Navigation%20Using%20Scene%20Priors.pdf)] (1)
 - Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning [[paper](https://arxiv.org/pdf/1609.05143.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICRA/ICRA_2017/Target-driven%20Visual%20Navigation%20in%20Indoor%20Scenes%20using%20Deep%20Reinforcement%20Learning.pdf)] (1)
 - Multi-Agent Manipulation via Locomotion using Hierarchical Sim2Real [[paper](https://arxiv.org/pdf/1908.05224.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Multi-Agent%20Manipulation%20via%20Locomotion%20using%20Hierarchical%20Sim2Real.pdf)] (1)
 - Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World [[paper](https://arxiv.org/pdf/1703.06907.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/IROS/IROS_2017/Domain%20Randomization%20for%20Transferring%20Deep%20Neural%20Networks%20from%20Simulation%20to%20the%20Real%20World.pdf)] (1)
