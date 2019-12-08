@@ -19,6 +19,9 @@ In terms of articles or research posts that are not published in peer review con
 All papers are included in my previous repo [papers](https://github.com/BryanBo-Cao/papers), which is set to private since it contains papers that need purchased. However, the original papers that are public available without any purchase can be found in the link along with the title of the paper.
 
 # Recent Notes
+2019 Dec
+- Unsupervised Cross-Domain Image Generation [[paper](https://arxiv.org/pdf/1611.02200.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2017/Unsupervised%20Cross-Domain%20Image%20Generation.pdf)] (1)
+
 2019 Nov
 - Visual Semantic Navigation Using Scene Priors [[paper](https://openreview.net/pdf?id=HJeRkh05Km)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2019/Visual%20Semantic%20Navigation%20Using%20Scene%20Priors.pdf)] (1)
 - Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning [[paper](https://arxiv.org/pdf/1609.05143.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICRA/ICRA_2017/Target-driven%20Visual%20Navigation%20in%20Indoor%20Scenes%20using%20Deep%20Reinforcement%20Learning.pdf)] (1)
