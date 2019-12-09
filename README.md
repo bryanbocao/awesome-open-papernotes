@@ -20,6 +20,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 # Recent Notes
 2019 Dec
+- Generative Adversarial Nets [[paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NIPS_2014/Generative%20Adversarial%20Nets.pdf)] (1)
 - Unsupervised Cross-Domain Image Generation [[paper](https://arxiv.org/pdf/1611.02200.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2017/Unsupervised%20Cross-Domain%20Image%20Generation.pdf)] (1)
 
 2019 Nov
