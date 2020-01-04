@@ -19,6 +19,9 @@ In terms of articles or research posts that are not published in peer review con
 All papers are included in my previous repo [papers](https://github.com/BryanBo-Cao/papers), which is set to private since it contains papers that need purchased. However, the original papers that are public available without any purchase can be found in the link along with the title of the paper.
 
 # Recent Notes
+2020 Jan
+- Continuous Control with Deep Reinforcement Learning [[paper](https://arxiv.org/pdf/1509.02971.pdf)] [[blog0](https://towardsdatascience.com/deep-deterministic-policy-gradients-explained-2d94655a9b7b)] [[blog1](https://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html)] [[code](https://github.com/ghliu/pytorch-ddpg)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2016/Continuous%20Control%20with%20Deep%20Reinforcement%20Learning.pdf)] (1)
+
 2019 Dec
 - Generative Adversarial Nets [[paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NIPS_2014/Generative%20Adversarial%20Nets.pdf)] (1)
 - Unsupervised Cross-Domain Image Generation [[paper](https://arxiv.org/pdf/1611.02200.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2017/Unsupervised%20Cross-Domain%20Image%20Generation.pdf)] (1)
