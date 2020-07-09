@@ -24,6 +24,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 2020 Jul
 
+- Meta-Sim: Learning to Generate Synthetic Datasets, ICCV 2019 [[paper ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kar_Meta-Sim_Learning_to_Generate_Synthetic_Datasets_ICCV_2019_paper.pdf)] [[paper arxiv](https://arxiv.org/pdf/1904.11621.pdf)] [[blog](https://nv-tlabs.github.io/meta-sim/)] [[code](https://github.com/nv-tlabs/meta-sim)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/Meta-Sim-%20Learning%20to%20Generate%20Synthetic%20Datasets.pdf)] (1)
 - SIM2Real Transfer [[slide](https://www.andrew.cmu.edu/course/10-403/slides/S19sim2real.pdf)] (1)
 - VR-Goggles for Robots: Real-to-sim Domain Adaptation for Visual Control [[paper](https://arxiv.org/pdf/1802.00265.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/VR-Goggles%20for%20Robots-%20Real-to-sim%20Domain%20Adaptation%20for%20Visual%20Control.pdf)] (1)
 - CycleGAN for sim2real Domain Adaptation [[paper](https://pdfs.semanticscholar.org/e063/b39e4ac100b2e3703d94c7f7a6c7f33b3cab.pdf?_ga=2.182192418.448974172.1594230998-1300398959.1593830384)] [[video](https://www.youtube.com/watch?v=zRYbyWoX7TQ)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/CycleGAN%20for%20sim2real%20Domain%20Adaptation.pdf)] (1)
