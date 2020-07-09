@@ -24,6 +24,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 2020 Jul
 
+- Learning to Simulate, ICLR 2019 [[paper](https://openreview.net/pdf?id=HJgkx2Aqt7)] [[forum](https://openreview.net/forum?id=HJgkx2Aqt7)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2019/Learning%20to%20Simulate.pdf)] (1)
 - Policy Transfer With Strategy Optimization, ICLR 2019 [[paper](https://openreview.net/pdf?id=H1g6osRcFQ)] [[forum](https://openreview.net/forum?id=H1g6osRcFQ)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2019/Policy%20Transfer%20With%20Strategy%20Optimization.pdf)] (2)
 - Domain Randomization for Sim2Real Transfer [[blog](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)] (1)
 - RL-CycleGAN: Reinforcement Learning Aware Simulation-To-Real, CVPR 2020 [[paper CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rao_RL-CycleGAN_Reinforcement_Learning_Aware_Simulation-to-Real_CVPR_2020_paper.pdf)] [[paper arxiv](https://arxiv.org/pdf/2006.09001.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2020/RL-CycleGAN-%20Reinforcement%20Learning%20Aware%20Simulation-To-Real.pdf)] (1)
