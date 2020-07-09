@@ -24,6 +24,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 2020 Jul
 
+- CycleGAN for sim2real Domain Adaptation [[paper](https://pdfs.semanticscholar.org/e063/b39e4ac100b2e3703d94c7f7a6c7f33b3cab.pdf?_ga=2.182192418.448974172.1594230998-1300398959.1593830384)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/CycleGAN%20for%20sim2real%20Domain%20Adaptation.pdf)] (1)
 - Learning to Simulate, ICLR 2019 [[paper](https://openreview.net/pdf?id=HJgkx2Aqt7)] [[forum](https://openreview.net/forum?id=HJgkx2Aqt7)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2019/Learning%20to%20Simulate.pdf)] (1)
 - Policy Transfer With Strategy Optimization, ICLR 2019 [[paper](https://openreview.net/pdf?id=H1g6osRcFQ)] [[forum](https://openreview.net/forum?id=H1g6osRcFQ)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2019/Policy%20Transfer%20With%20Strategy%20Optimization.pdf)] (2)
 - Domain Randomization for Sim2Real Transfer [[blog](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)] (1)
