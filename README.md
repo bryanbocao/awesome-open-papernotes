@@ -26,6 +26,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ---
 Self-Supervised Learning
+- Self-Supervised Dueling Networks for Deep Reinforcement Learning, NIPS 2016 [[paper](https://pdfs.semanticscholar.org/e810/28ce5cbd32cb3c8068271935d1b2f77570fc.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NIPS_2016/Self-Supervised%20Dueling%20Networks%20for%20Deep%20Reinforcement%20Learning.pdf)] (1)
 - Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey, TPAMI 2020 [[paper](https://arxiv.org/pdf/1902.06162.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/TPAMI/TPAMI_2020/Self-supervised%20Visual%20Feature%20Learning%20with%20Deep%20Neural%20Networks-%20A%20Survey.pdf)] (1)
 - CURL: Contrastive Unsupervised Representations for Reinforcement Learning, ICML 2020 [[paper](https://arxiv.org/pdf/2004.04136.pdf)] [[code](https://github.com/MishaLaskin/curl)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICML/ICML_2020/CURL-%20Contrastive%20Unsupervised%20Representations%20for%20Reinforcement%20Learning.pdf)] (1)
 - Unsupervised Domain Adaptation through Self-Supervision - REJECT, ICLR 2020 [[paper](https://openreview.net/pdf?id=S1lF8xHYwS)] [[forum](https://openreview.net/forum?id=S1lF8xHYwS)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICLR/ICLR_2020/Unsupervised%20Domain%20Adaptation%20through%20Self-Supervision%20-%20REJECT.pdf)] (1)
