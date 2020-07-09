@@ -24,6 +24,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 2020 Jul
 
+- End-to-End Robotic Reinforcement Learning without Reward Engineering, RSS 2019 [[paper](http://www.roboticsproceedings.org/rss15/p73.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/RSS/RSS_2019/End-to-End%20Robotic%20Reinforcement%20Learning%20without%20Reward%20Engineering.pdf)] (1)
 - Meta-Sim: Learning to Generate Synthetic Datasets, ICCV 2019 [[paper ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kar_Meta-Sim_Learning_to_Generate_Synthetic_Datasets_ICCV_2019_paper.pdf)] [[paper arxiv](https://arxiv.org/pdf/1904.11621.pdf)] [[blog](https://nv-tlabs.github.io/meta-sim/)] [[code](https://github.com/nv-tlabs/meta-sim)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/Meta-Sim-%20Learning%20to%20Generate%20Synthetic%20Datasets.pdf)] (1)
 - SIM2Real Transfer [[slide](https://www.andrew.cmu.edu/course/10-403/slides/S19sim2real.pdf)] (1)
 - VR-Goggles for Robots: Real-to-sim Domain Adaptation for Visual Control [[paper](https://arxiv.org/pdf/1802.00265.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/VR-Goggles%20for%20Robots-%20Real-to-sim%20Domain%20Adaptation%20for%20Visual%20Control.pdf)] (1)
