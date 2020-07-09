@@ -26,6 +26,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ---
 Self-Supervised Learning
+- S4L: Self-Supervised Semi-Supervised Learning, ICCV 2019 [[paper ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhai_S4L_Self-Supervised_Semi-Supervised_Learning_ICCV_2019_paper.pdf)] [[paper arxiv](https://arxiv.org/pdf/1905.03670.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/S4L-%20Self-Supervised%20Semi-Supervised%20Learning.pdf)] (1)
 - Self-Supervised Representation Learning, Lil'Log 2019 [[blog](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)] (1)
 ---
 
