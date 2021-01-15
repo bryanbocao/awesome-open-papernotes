@@ -21,6 +21,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 ---
 
 ### Recent Notes
+2020 Oct
+- MotionTransformer: Transferring Neural Inertial Tracking between Domains, AAAI 2019 [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4802)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/AAAI/AAAI_2019/MotionTransformer-%20Transferring%20Neural%20Inertial%20Tracking%20between%20Domains.pdf)] (1)
+
 2020 Sep
 - Enabling Identity-Aware Tracking via Fusion of Visual and Inertial Features, ICRA 2019 [[paper](https://ieeexplore.ieee.org/document/8793839)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICRA/ICRA_2019/Enabling%20Identity-Aware%20Tracking%20via%20Fusion%20of%20Visual%20and%20Inertial%20Features.pdf)] (1)
 - Person Re-ID by Fusion of Video Silhouettes and Wearable Signals for Home Monitoring Applications, Sensors 2020 [[paper](https://www.mdpi.com/1424-8220/20/9/2576)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/Sensors/Sensors_2020/Person%20Re-ID%20by%20Fusion%20of%20Video%20Silhouettes%20and%20Wearable%20Signals%20for%20Home%20Monitoring%20Applications.pdf)] (1)
