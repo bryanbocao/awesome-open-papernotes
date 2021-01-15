@@ -22,6 +22,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 2020 Oct
+- SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation, ICCV 2019 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_SceneGraphNet_Neural_Message_Passing_for_3D_Indoor_Scene_Augmentation_ICCV_2019_paper.pdf)] [[code](https://github.com/yzhou359/3DIndoor-SceneGraphNet)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/SceneGraphNet-%20Neural%20Message%20Passing%20for%203D%20Indoor%20Scene%20Augmentation.pdf)] (1)
 - A Comprehensive Survey on Graph Neural Networks, NNLS 2021 [[paper](https://ieeexplore.ieee.org/document/9046288)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/transactions/NNLS/NNLS_2021/A%20Comprehensive%20Survey%20on%20Graph%20Neural%20Networks.pdf)] (1)
 - MotionTransformer: Transferring Neural Inertial Tracking between Domains, AAAI 2019 [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4802)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/AAAI/AAAI_2019/MotionTransformer-%20Transferring%20Neural%20Inertial%20Tracking%20between%20Domains.pdf)] (1)
 
