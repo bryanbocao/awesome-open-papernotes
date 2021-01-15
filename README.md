@@ -22,6 +22,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 2020 Oct
+- A Comprehensive Survey on Graph Neural Networks, NNLS 2021 [[paper](https://ieeexplore.ieee.org/document/9046288)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/transactions/NNLS/NNLS_2021/A%20Comprehensive%20Survey%20on%20Graph%20Neural%20Networks.pdf)] (1)
 - MotionTransformer: Transferring Neural Inertial Tracking between Domains, AAAI 2019 [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4802)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/AAAI/AAAI_2019/MotionTransformer-%20Transferring%20Neural%20Inertial%20Tracking%20between%20Domains.pdf)] (1)
 
 2020 Sep
