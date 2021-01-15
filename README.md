@@ -22,6 +22,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 2020 Sep
+- Tasking Networked CCTV Cameras and Mobile Phones to Identify and Localize Multiple People, UbiComp 2010 [[paper](https://dl.acm.org/doi/10.1145/1864349.1864367)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/UbiComp/UbiComp_2010/Tasking%20Networked%20CCTV%20Cameras%20and%20Mobile%20Phones%20to%20Identify%20and%20Localize%20Multiple%20People.pdf)] (1)
 - Tagging Wearable Accelerometers in Camera Frames through Information Translation between Vision Sensors and Accelerometers, ICCPS 2019 [[paper](https://dl.acm.org/doi/10.1145/3302509.3311057)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCPS/ICCPS_2019/Tagging%20Wearable%20Accelerometers%20in%20Camera%20Frames%20through%20Information%20Translation%20between%20Vision%20Sensors%20and%20Accelerometers.pdf)] (2)
 
 2020 Jul
