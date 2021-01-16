@@ -21,6 +21,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 ---
 
 ### Recent Notes
+2020 Nov
+- Position-aware Graph Neural Networks, ICML 2019 [[paper](http://proceedings.mlr.press/v97/you19b/you19b.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICML/ICML_2019/Position-aware%20Graph%20Neural%20Networks.pdf)] (1)
+
 2020 Oct
 - Recurrent Space-time Graph Neural Networks, NeurIPS 2019 [[paper](https://papers.nips.cc/paper/2019/file/383beaea4aa57dd8202dbff464fee3af-Paper.pdf)] [[code](https://github.com/IuliaDuta/RSTG)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NeurIPS_2019/Recurrent%20Space-time%20Graph%20Neural%20Networks.pdf)] (1)
 - 3D Graph Neural Networks for RGBD Semantic Segmentation, ICCV 2017 [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2017/3D%20Graph%20Neural%20Networks%20for%20RGBD%20Semantic%20Segmentation.pdf)] (1)
