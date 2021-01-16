@@ -22,6 +22,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 2020 Dec
+- Wi-Go: Accurate and Scalable Vehicle Positioning using WiFi Fine Timing Measurement, MobiSys 2020 [[paper](https://dl.acm.org/doi/10.1145/3386901.3388944)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiSys/MobiSys_2020/Wi-Go-%20Accurate%20and%20Scalable%20Vehicle%20Positioning%20using%20WiFi%20Fine%20Timing%20Measurement.pdf)] (1)
 - Active Vision for Early Recognition of Human Actions, CVPR 2020 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Active_Vision_for_Early_Recognition_of_Human_Actions_CVPR_2020_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2020/Active%20Vision%20for%20Early%20Recognition%20of%20Human%20Actions.pdf)] (1)
 
 2020 Nov
