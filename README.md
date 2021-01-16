@@ -21,6 +21,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 ---
 
 ### Recent Notes
+2020 Dec
+- Active Vision for Early Recognition of Human Actions, CVPR 2020 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Active_Vision_for_Early_Recognition_of_Human_Actions_CVPR_2020_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2020/Active%20Vision%20for%20Early%20Recognition%20of%20Human%20Actions.pdf)] (1)
+
 2020 Nov
 - Position-aware Graph Neural Networks, ICML 2019 [[paper](http://proceedings.mlr.press/v97/you19b/you19b.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICML/ICML_2019/Position-aware%20Graph%20Neural%20Networks.pdf)] (1)
 
