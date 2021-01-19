@@ -32,5 +32,8 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 
+Y2021 Jan
+- An Efficiently Computable Metric for Comparing Polygonal Shapes, TPAMI 1991 ```C1M1E1L1``` [[paper](http://www.cs.cornell.edu/~dph/papers/ACHKM-TPAMI-91.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/transactions/TPAMI/TPAMI_1991/An%20Efficiently%20Computable%20Metric%20for%20Comparing%20Polygonal%20Shapes.pdf)]
+
 [Y2020](https://github.com/BryanBo-Cao/open-papernotes/blob/master/records/Y2020.md)
 [Y2019](https://github.com/BryanBo-Cao/open-papernotes/blob/master/records/Y2019.md)
