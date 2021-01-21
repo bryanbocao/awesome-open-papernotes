@@ -33,6 +33,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 ### Recent Notes
 
 Y2021 Jan
+- Adaptive Dynamic Bipartite Graph Matching: A Reinforcement Learning Approach, ICDE 2019 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8731455)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICDE/ICDE_2019/Adaptive%20Dynamic%20Bipartite%20Graph%20Matching-%20A%20Reinforcement%20Learning%20Approach.pdf)]
 - One Way Distance: For Shape Based Similarity Search of Moving Object Trajectories, ACMGIS 2005 ```C1M1E1L1``` [[paper](https://link.springer.com/article/10.1007/s10707-007-0027-y)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ACMGIS/ACMGIS_2005/One%20Way%20Distance-%20For%20Shape%20Based%20Similarity%20Search%20of%20Moving%20Object%20Trajectories.pdf)]
 - AI-IMU Dead-Reckoning, IV 2020 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/9035481)] [[code](https://github.com/mbrossar/ai-imu-dr)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/transactions/IV/IV_2020/AI-IMU%20Dead-Reckoning.pdf)]
 - On Map-Matching Vehicle Tracking Data, VLDB 2005 ```C1M1E1L1``` [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.73.7466&rep=rep1&type=pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/VLDB/VLDB_2005/On%20Map-Matching%20Vehicle%20Tracking%20Data.pdf)]
