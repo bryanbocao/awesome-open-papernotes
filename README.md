@@ -33,6 +33,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 ### Recent Notes
 
 Y2021 Jan
+- Unsupervised Domain Adaptation by Backpropagation, ICML 2015 ```C1M1E1L1``` [[paper](http://proceedings.mlr.press/v37/ganin15.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICML/ICML_2015/Unsupervised%20Domain%20Adaptation%20by%20Backpropagation.pdf)]
 - IONet: Learning to Cure the Curse of Drift in Inertial Odometry, AAAI 2018 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/1802.02209.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/AAAI/AAAI_2018/IONet-%20Learning%20to%20Cure%20the%20Curse%20of%20Drift%20in%20Inertial%20Odometry.pdf)]
 - Deep Neural Network Based Inertial Odometry Using Low-cost Inertial Measurement Units, TMC 2019 ```C1M1E1L1``` [[paper](https://www.cs.ox.ac.uk/files/11501/DNN_IONet.pdf)] [[video](https://www.youtube.com/watch?v=L5LtE-PQuHk&feature=youtu.be)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/transactions/TMC/TMC_2019/Deep%20Neural%20Network%20Based%20Inertial%20Odometry%20Using%20Low-cost%20Inertial%20Measurement%20Units.pdf)]
 - Deep-Learning-Based Pedestrian Inertial Navigation: Methods, Data Set, and On-Device Inference, IoT 2020 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2001.04061.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/IoT/IoT_2020/Deep-Learning-Based%20Pedestrian%20Inertial%20Navigation-%20Methods%2C%20Data%20Set%2C%20and%20On-Device%20Inference.pdf)]
