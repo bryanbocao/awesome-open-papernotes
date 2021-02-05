@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Feb
+- End-to-End Low Cost Compressive Spectral Imaging with Spatial-Spectral Self-Attention, ECCV 2020 ```C1M1E1L1``` [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680188.pdf)] [[code0](https://github.com/mengziyi64/TSA-Net)] [[code1](https://github.com/xyvirtualgroup/TSA-Net)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/End-to-End%20Low%20Cost%20Compressive%20Spectral%20Imaging%20with%20Spatial-Spectral%20Self-Attention.pdf)]
 - Collaborative Deep Reinforcement Learning for Multi-Object Tracking, ECCV 2018 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Collaborative_Deep_Reinforcement_ECCV_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2018/Collaborative%20Deep%20Reinforcement%20Learning%20for%20Multi-Object%20Tracking.pdf)]
 - Unsupervised Correlation Analysis, CVPR 2018 ```C2M2E1L1``` [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hoshen_Unsupervised_Correlation_Analysis_CVPR_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/Unsupervised%20Correlation%20Analysis.pdf)]
 
