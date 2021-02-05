@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Feb
+- Collaborative Deep Reinforcement Learning for Multi-Object Tracking, ECCV 2018 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Collaborative_Deep_Reinforcement_ECCV_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2018/Collaborative%20Deep%20Reinforcement%20Learning%20for%20Multi-Object%20Tracking.pdf)]
 - Unsupervised Correlation Analysis, CVPR 2018 ```C2M2E1L1``` [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hoshen_Unsupervised_Correlation_Analysis_CVPR_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/Unsupervised%20Correlation%20Analysis.pdf)]
 
 Y2021 Jan
