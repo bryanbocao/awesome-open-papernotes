@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Feb
+- Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition, Sensors 2016 ```C1M1E1L1``` [[paper](https://www.mdpi.com/1424-8220/16/1/115)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/Sensors/Sensors_2016/Deep%20Convolutional%20and%20LSTM%20Recurrent%20Neural%20Networks%20for%20Multimodal%20Wearable%20Activity%20Recognition.pdf)]
 - Attention Is All You Need, NIPS 2017 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/1706.03762.pdf)] [[code](https://github.com/tensorflow/tensor2tensor)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NIPS_2017/Attention%20Is%20All%20You%20Need.pdf)]
 - Making Sense of Vision and Touch: Learning Multimodal Representations for Contact-Rich Tasks, T-RO 2020 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/1907.13098.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/transactions/T-RO/T-RO_2020/Making%20Sense%20of%20Vision%20and%20Touch-%20Learning%20Multimodal%20Representations%20for%20Contact-Rich%20Tasks.pdf)]
 - Audio-Visual Event Localization in Unconstrained Videos, ECCV 2018 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2018/Audio-Visual%20Event%20Localization%20in%20Unconstrained%20Videos.pdf)]
