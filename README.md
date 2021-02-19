@@ -32,7 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Feb
-- Attention? Attention!, Lil'Log ```1``` [[blog](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)]
+- Attention? Attention!, Lil'Log ```2``` [[blog](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)]
 - The Illustrated Transformer ```4``` [[blog0](http://jalammar.github.io/illustrated-transformer/)] [[blog1](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)] [[blog2](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)] [[code](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)]
 - Universal Embeddings for Spatio-Temporal Tagging of Self-Driving Logs, CoRL 2020 ```C1M1E1L1``` [[paper](https://drive.google.com/file/d/1MYWfq9d2tpJuRwFFhzUjZf-mhgQGdB_h/view)] [[website](https://corlconf.github.io/paper_205/)] [[video](https://www.youtube.com/watch?v=IeOwVqXYLck)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CoRL/CoRL_2020/Universal%20Embeddings%20for%20Spatio-Temporal%20Tagging%20of%20Self-Driving%20Logs.pdf)]
 - View-Invariant Probabilistic Embedding for Human Pose, ECCV 2020 ```C2M2E1L1``` [[paper](https://arxiv.org/pdf/1912.01001.pdf)] [[website](https://ai.googleblog.com/2021/01/recognizing-pose-similarity-in-images.html)] [[code](https://github.com/google-research/google-research/tree/master/poem)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/View-Invariant%20Probabilistic%20Embedding%20for%20Human%20Pose.pdf)]
