@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Feb
+- Multi-modal Transformer for Video Retrieval, ECCV 2020 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2007.10639.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/Multi-modal%20Transformer%20for%20Video%20Retrieval.pdf)]
 - AMC: Attention guided Multi-modal Correlation Learning for Image Search, CVPR 2017 ```C2M1E1L1``` [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_AMC_Attention_guided_CVPR_2017_paper.pdf)] [[code](https://github.com/kanchen-usc/AMC_ATT)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2017/AMC-%20Attention%20guided%20Multi-modal%20Correlation%20Learning%20for%20Image%20Search.pdf)]
 - Attention? Attention!, Lil'Log ```2``` [[blog](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)]
 - The Illustrated Transformer ```4``` [[blog0](http://jalammar.github.io/illustrated-transformer/)] [[blog1](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)] [[blog2](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)] [[code](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)]
