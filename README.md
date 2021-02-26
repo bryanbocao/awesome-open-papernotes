@@ -32,7 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Feb
-- Multimodal Machine Learning: A Survey and Taxonomy, TPAMI 2019 ```M1``` [[paper](https://arxiv.org/pdf/1705.09406.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/transactions/TPAMI/TPAMI_2019/Multimodal%20Machine%20Learning-%20A%20Survey%20and%20Taxonomy.pdf)]
+- Multimodal Machine Learning: A Survey and Taxonomy, TPAMI 2019 ```M2``` [[paper](https://arxiv.org/pdf/1705.09406.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/transactions/TPAMI/TPAMI_2019/Multimodal%20Machine%20Learning-%20A%20Survey%20and%20Taxonomy.pdf)]
 - Stand-Alone Self-Attention in Vision Models, NeurIPS 2019 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/1906.05909.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NeurIPS_2019/Stand-Alone%20Self-Attention%20in%20Vision%20Models.pdf)]
 - Hierarchical Robot Navigation in Novel Environments using Rough 2-D Maps, CoRL 2020 ```C1M1E1L1``` [[paper](https://drive.google.com/file/d/11N5huogxSrWkL_dJm67KeldVEnaMHyG9/view)] [[website](https://corlconf.github.io/paper_442/)] [[video](https://www.youtube.com/watch?v=xA3CrOaHzxE&feature=emb_logo)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CoRL/CoRL_2020/Hierarchical%20Robot%20Navigation%20in%20Novel%20Environments%20using%20Rough%202-D%20Maps.pdf)]
 - Multi-modal Transformer for Video Retrieval, ECCV 2020 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2007.10639.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/Multi-modal%20Transformer%20for%20Video%20Retrieval.pdf)]
