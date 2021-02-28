@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Feb
+- Layer Normalization ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/1607.06450.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Layer%20Normalization.pdf)]
 - Multi-Modality Cross Attention Network for Image and Sentence Matching, CVPR 2020 ```C1M2E1L1``` [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Multi-Modality_Cross_Attention_Network_for_Image_and_Sentence_Matching_CVPR_2020_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2020/Multi-Modality%20Cross%20Attention%20Network%20for%20Image%20and%20Sentence%20Matching.pdf)]
 - Multimodal Machine Learning: A Survey and Taxonomy, TPAMI 2019 ```M2``` [[paper](https://arxiv.org/pdf/1705.09406.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/transactions/TPAMI/TPAMI_2019/Multimodal%20Machine%20Learning-%20A%20Survey%20and%20Taxonomy.pdf)]
 - Stand-Alone Self-Attention in Vision Models, NeurIPS 2019 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/1906.05909.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NeurIPS_2019/Stand-Alone%20Self-Attention%20in%20Vision%20Models.pdf)]
