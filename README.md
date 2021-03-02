@@ -32,7 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Mar
-- Hierarchical Self-Attention Network for Action Localization in Videos, ICCV 2019 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pramono_Hierarchical_Self-Attention_Network_for_Action_Localization_in_Videos_ICCV_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/Hierarchical%20Self-Attention%20Network%20for%20Action%20Localization%20in%20Videos.pdf)]
+- Hierarchical Self-Attention Network for Action Localization in Videos, ICCV 2019 ```C2M3E1L1``` [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pramono_Hierarchical_Self-Attention_Network_for_Action_Localization_in_Videos_ICCV_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/Hierarchical%20Self-Attention%20Network%20for%20Action%20Localization%20in%20Videos.pdf)]
 
 Y2021 Feb
 - Focal Visual-Text Attention for Visual Question Answering, CVPR 2018 ```C1M1E1L1``` [[paper](https://www.cs.cmu.edu/~junweil/camera_ready/cvpr18.pdf)] [[website](https://memexqa.cs.cmu.edu/fvta.html)] [[video](https://www.youtube.com/watch?time_continue=4292&v=TBOnKekODCI&feature=emb_title)] [[code](https://github.com/JunweiLiang/FVTA_MemexQA)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/Focal%20Visual-Text%20Attention%20for%20Visual%20Question%20Answering.pdf)]
