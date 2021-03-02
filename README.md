@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Mar
+- Text-to-Image Generation Grounded by Fine-Grained User Attention, WACV 2021 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Koh_Text-to-Image_Generation_Grounded_by_Fine-Grained_User_Attention_WACV_2021_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/WACV/WACV_2021/Text-to-Image%20Generation%20Grounded%20by%20Fine-Grained%20User%20Attention.pdf)]
 - Multi-modal Discriminative Model for Vision-and-Language Navigation, ACL 2019 ```C1M1E1L1``` [[paper](https://www.aclweb.org/anthology/W19-1605.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ACL/ACL_2019/Multi-modal%20Discriminative%20Model%20for%20Vision-and-Language%20Navigation.pdf)]
 - Hierarchical Self-Attention Network for Action Localization in Videos, ICCV 2019 ```C2M3E1L1``` [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pramono_Hierarchical_Self-Attention_Network_for_Action_Localization_in_Videos_ICCV_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/Hierarchical%20Self-Attention%20Network%20for%20Action%20Localization%20in%20Videos.pdf)]
 
