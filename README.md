@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Mar
+- Towards 3D Human Pose Construction Using WiFi, MobiCom 2020 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/10.1145/3372224.3380900)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiCom/MobiCom_2020/Towards%203D%20Human%20Pose%20Construction%20Using%20WiFi.pdf)]
 - Dense Multimodal Fusion for Hierarchically Joint Representation, ICASSP 2019 ```C3M2E2L2``` [[paper](https://ieeexplore.ieee.org/document/8683898)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICASSP/ICASSP_2019/Dense%20Multimodal%20Fusion%20for%20Hierarchically%20Joint%20Representation.pdf)]
 - RGB-W: When Vision Meets Wireless, ICCV 2015 ```C2M2E1L1``` [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Alahi_RGB-W_When_Vision_ICCV_2015_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2015/RGB-W-%20When%20Vision%20Meets%20Wireless.pdf)]
 - Simultaneous Identification and Tracking of Multiple People using Video and IMUs, CVPRW 2019 ```C2M2E2L2``` [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/BMTT/Henschel_Simultaneous_Identification_and_Tracking_of_Multiple_People_Using_Video_and_CVPRW_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPRW_2019/Simultaneous%20Identification%20and%20Tracking%20of%20Multiple%20People%20using%20Video%20and%20IMUs.pdf)]
