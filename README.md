@@ -32,7 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Mar
-- Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/1609.01775.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Performance%20Measures%20and%20a%20Data%20Set%20for%20Multi-Target%2C%20Multi-Camera%20Tracking.pdf)]
+- Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking ```C2M2E1L1``` [[paper](https://arxiv.org/pdf/1609.01775.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Performance%20Measures%20and%20a%20Data%20Set%20for%20Multi-Target%2C%20Multi-Camera%20Tracking.pdf)]
 - Ear-AR: Indoor Acoustic Augmented Reality on Earphones, MobiCom 2020 ```C2M2E2L2``` [[paper](https://synrg.csl.illinois.edu/papers/ear-ar_mobicom20.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiCom/MobiCom_2020/Ear-AR-%20Indoor%20Acoustic%20Augmented%20Reality%20on%20Earphones.pdf)]
 - Multimodal Intelligence: Representation Learning, Information Fusion, and Applications, SP 2020 ```M1``` [[paper](https://arxiv.org/pdf/1911.03977.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/SP/SP_2020/Multimodal%20Intelligence-%20Representation%20Learning%2C%20Information%20Fusion%2C%20and%20Applications.pdf)]
 - Towards 3D Human Pose Construction Using WiFi, MobiCom 2020 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/10.1145/3372224.3380900)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiCom/MobiCom_2020/Towards%203D%20Human%20Pose%20Construction%20Using%20WiFi.pdf)]
