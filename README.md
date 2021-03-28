@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Mar
+- Spectrum Patrolling With Crowdsourced Spectrum Sensors, TCCN 2020 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8486343)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/trans/TCCN/TCCN_2020/Spectrum%20Patrolling%20With%20Crowdsourced%20Spectrum%20Sensors.pdf)]
 - MetaSCI: Scalable and Adaptive Reconstruction for Video Compressive Sensing, CVPR 2021 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2103.01786.pdf)] [[code](https://github.com/xyvirtualgroup/MetaSCI-CVPR2021)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2021/MetaSCI-%20Scalable%20and%20Adaptive%20Reconstruction%20for%20Video%20Compressive%20Sensing.pdf)]
 - Annotation Generation From IMU-Based Human Whole-Body Motions in Daily Life Behavior, TransHumMachSyst 2020 ```C2M2E2L2``` [[paper](https://ieeexplore.ieee.org/abstract/document/8954775)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/trans/TransHumMachSyst/TransHumMachSyst_2020/Annotation%20Generation%20From%20IMU-Based%20Human%20Whole-Body%20Motions%20in%20Daily%20Life%20Behavior.pdf)]
 - I am a Smartwatch and I can Track my User’s Arm, MobiSys 2016 ```C2M2E1L2``` [[paper](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiSys/MobiSys_2016/I%20am%20a%20Smartwatch%20and%20I%20can%20Track%20my%20User%E2%80%99s%20Arm.pdf)]
