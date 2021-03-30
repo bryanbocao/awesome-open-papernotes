@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Mar
+- Widar2.0: Passive Human Tracking with a Single Wi-Fi Link, MobiSys 2018 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/10.1145/3210240.3210314)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiSys/MobiSys_2018/Widar2.0-%20Passive%20Human%20Tracking%20with%20a%20Single%20Wi-Fi%20Link.pdf)]
 - Widar: Decimeter-Level Passive Tracking via Velocity Monitoring with Commodity Wi-Fi, Mobihoc 2017 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/10.1145/3084041.3084067)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/Mobihoc/Mobihoc_2017/Widar-%20Decimeter-Level%20Passive%20Tracking%20via%20Velocity%20Monitoring%20with%20Commodity%20Wi-Fi.pdf)]
 - Position Tracking for Virtual Reality Using Commodity WiFi, CVPR 2017 ```C2M2E1L2``` [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kotaru_Position_Tracking_for_CVPR_2017_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2017/Position%20Tracking%20for%20Virtual%20Reality%20Using%20Commodity%20WiFi.pdf)]
 - Spectrum Patrolling With Crowdsourced Spectrum Sensors, TCCN 2020 ```C2M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8486343)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/trans/TCCN/TCCN_2020/Spectrum%20Patrolling%20With%20Crowdsourced%20Spectrum%20Sensors.pdf)]
