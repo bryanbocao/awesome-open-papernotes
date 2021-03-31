@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Mar
+- Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2001.08317.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Deep%20Transformer%20Models%20for%20Time%20Series%20Forecasting-%20The%20Influenza%20Prevalence%20Case.pdf)]
 - 3D Human Pose Estimation with Spatial and Temporal Transformers ```C2M2E2L2``` [[paper](https://arxiv.org/pdf/2103.10455.pdf)] [[video](https://www.youtube.com/watch?v=z8HWOdXjGR8)] [[code](https://github.com/zczcwh/PoseFormer)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/3D%20Human%20Pose%20Estimation%20with%20Spatial%20and%20Temporal%20Transformers.pdf)]
 - Capturing the Human Figure Through a Wall, TOG 2015 ```C2M2E1L1``` [[paper](https://dl.acm.org/doi/10.1145/2816795.2818072)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/trans/TOG/TOG_2015/Capturing%20the%20Human%20Figure%20Through%20a%20Wall.pdf)]
 - Widar2.0: Passive Human Tracking with a Single Wi-Fi Link, MobiSys 2018 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/10.1145/3210240.3210314)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiSys/MobiSys_2018/Widar2.0-%20Passive%20Human%20Tracking%20with%20a%20Single%20Wi-Fi%20Link.pdf)]
