@@ -32,7 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Apr
-- milliEgo: Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion, SenSys 2020 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2006.02266.pdf)] [[code](https://github.com/ChristopherLu/milliEgo)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/SenSys/SenSys_2020/milliEgo-%20Single-chip%20mmWave%20Radar%20Aided%20Egomotion%20Estimation%20via%20Deep%20Sensor%20Fusion.pdf)]
+- milliEgo: Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion, SenSys 2020 ```C3M3E1L2``` [[paper](https://arxiv.org/pdf/2006.02266.pdf)] [[code](https://github.com/ChristopherLu/milliEgo)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/SenSys/SenSys_2020/milliEgo-%20Single-chip%20mmWave%20Radar%20Aided%20Egomotion%20Estimation%20via%20Deep%20Sensor%20Fusion.pdf)]
 
 Y2021 Mar
 - Semi-Supervised Crowd Counting via Self-Training on Surrogate Tasks, ECCV 2020 ```C2M2E1L1``` [[paper](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/Semi-Supervised%20Crowd%20Counting%20via%20Self-Training%20on%20Surrogate%20Tasks.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Deep%20Transformer%20Models%20for%20Time%20Series%20Forecasting-%20The%20Influenza%20Prevalence%20Case.pdf)]
