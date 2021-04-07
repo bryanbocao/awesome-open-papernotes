@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Apr
+- Bringing Old Photos Back to Life, CVPR 2020 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2004.09484.pdf)] [[website](http://raywzy.com/Old_Photo/)] [[video](https://www.youtube.com/watch?v=T34TZXCwwcQ)] [[code](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)] [[colab](https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA?usp=sharing)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2020/Bringing%20Old%20Photos%20Back%20to%20Life.pdf)]
 - milliEgo: Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion, SenSys 2020 ```C3M3E1L2``` [[paper](https://arxiv.org/pdf/2006.02266.pdf)] [[code](https://github.com/ChristopherLu/milliEgo)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/SenSys/SenSys_2020/milliEgo-%20Single-chip%20mmWave%20Radar%20Aided%20Egomotion%20Estimation%20via%20Deep%20Sensor%20Fusion.pdf)]
 
 Y2021 Mar
