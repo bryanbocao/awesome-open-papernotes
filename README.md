@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Apr
+- Recognizing Textures with Mobile Cameras for Pedestrian Safety Applications, TMC 2018 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8454285)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/trans/TMC/TMC_2018/Recognizing%20Textures%20with%20Mobile%20Cameras%20for%20Pedestrian%20Safety%20Applications.pdf)]
 - FusionEye: Perception Sharing for Connected Vehicles and its Bandwidth-Accuracy Trade-offs, SECON 2019 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8824839)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/SECON/SECON_2019/FusionEye-%20Perception%20Sharing%20for%20Connected%20Vehicles%20and%20its%20Bandwidth-Accuracy%20Trade-offs.pdf)]
 - Gradient Profiling for Pedestrian Services, MobiSys 2015 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/abs/10.1145/2752746.2752784)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiSys/MobiSys_2015/Gradient%20Profiling%20for%20Pedestrian%20Services.pdf)]
 - LookUp: Enabling Pedestrian Safety Services via Shoe Sensing, MobiSys 2015 ```C1M1E1L1``` [[paper](http://www.winlab.rutgers.edu/~shubhamj/papers/mobi251f.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiSys/MobiSys_2015/LookUp-%20Enabling%20Pedestrian%20Safety%20Services%20via%20Shoe%20Sensing.pdf)]
