@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Apr
+- Visually Fingerprinting Humans without Face Recognition, MobiSys 2015 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/10.1145/2742647.2742671)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiSys/MobiSys_2015/Visually%20Fingerprinting%20Humans%20without%20Face%20Recognition.pdf)]
 - Towards City-Scale Smartphone Sensing of Potentially Unsafe Pedestrian Movements, MASS 2014 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/7035761)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MASS/MASS_2014/Towards%20City-Scale%20Smartphone%20Sensing%20of%20Potentially%20Unsafe%20Pedestrian%20Movements.pdf)]
 - Towards Robust Vehicular Context Sensing, TVT 2018 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8100990)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/trans/TVT/TVT_2018/Towards%20Robust%20Vehicular%20Context%20Sensing.pdf)]
 - Recognizing Textures with Mobile Cameras for Pedestrian Safety Applications, TMC 2018 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8454285)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/trans/TMC/TMC_2018/Recognizing%20Textures%20with%20Mobile%20Cameras%20for%20Pedestrian%20Safety%20Applications.pdf)]
