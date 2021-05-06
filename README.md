@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Apr
+- StructSLAM: Visual SLAM With Building Structure Lines, TVT 2015 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/7001715)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/trans/TVT/TVT_2015/StructSLAM-%20Visual%20SLAM%20With%20Building%20Structure%20Lines.pdf)]
 - Attention Guided Deep Audio-face Fusion for Efficient Speaker Naming, PR 2018 ```C1M1E1L1``` [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320318304321)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/PR/PR_2018/Attention%20Guided%20Deep%20Audio-face%20Fusion%20for%20Efficient%20Speaker%20Naming.pdf)]
 - TracKlinic: Diagnosis of Challenge Factors in Visual Tracking, WACV 2021 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Fan_TracKlinic_Diagnosis_of_Challenge_Factors_in_Visual_Tracking_WACV_2021_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/WACV/WACV_2021/TracKlinic-%20Diagnosis%20of%20Challenge%20Factors%20in%20Visual%20Tracking.pdf)]
 - RGB-D Scene Labeling with Multimodal Recurrent Neural Networks, CVPRW 2017 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w3/papers/Fan_RGB-D_Scene_Labeling_CVPR_2017_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPRW_2017/RGB-D%20Scene%20Labeling%20with%20Multimodal%20Recurrent%20Neural%20Networks.pdf)]
