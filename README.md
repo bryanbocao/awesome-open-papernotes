@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Apr
+- Towards City-Scale Smartphone Sensing of Potentially Unsafe Pedestrian Movements, MASS 2014 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/7035761)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MASS/MASS_2014/Towards%20City-Scale%20Smartphone%20Sensing%20of%20Potentially%20Unsafe%20Pedestrian%20Movements.pdf)]
 - Towards Robust Vehicular Context Sensing, TVT 2018 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8100990)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/trans/TVT/TVT_2018/Towards%20Robust%20Vehicular%20Context%20Sensing.pdf)]
 - Recognizing Textures with Mobile Cameras for Pedestrian Safety Applications, TMC 2018 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8454285)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/trans/TMC/TMC_2018/Recognizing%20Textures%20with%20Mobile%20Cameras%20for%20Pedestrian%20Safety%20Applications.pdf)]
 - FusionEye: Perception Sharing for Connected Vehicles and its Bandwidth-Accuracy Trade-offs, SECON 2019 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8824839)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/SECON/SECON_2019/FusionEye-%20Perception%20Sharing%20for%20Connected%20Vehicles%20and%20its%20Bandwidth-Accuracy%20Trade-offs.pdf)]
