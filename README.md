@@ -32,6 +32,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Apr
+- Gradient Profiling for Pedestrian Services, MobiSys 2015 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/abs/10.1145/2752746.2752784)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiSys/MobiSys_2015/Gradient%20Profiling%20for%20Pedestrian%20Services.pdf)]
 - LookUp: Enabling Pedestrian Safety Services via Shoe Sensing, MobiSys 2015 ```C1M1E1L1``` [[paper](http://www.winlab.rutgers.edu/~shubhamj/papers/mobi251f.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiSys/MobiSys_2015/LookUp-%20Enabling%20Pedestrian%20Safety%20Services%20via%20Shoe%20Sensing.pdf)]
 - Efficient Speaker Naming via Deep Audio-Face Fusion and End-to-End Attention Model, ACPR 2017 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8575858)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ACPR/ACPR_2017/Efficient%20Speaker%20Naming%20via%20Deep%20Audio-Face%20Fusion%20and%20End-to-End%20Attention%20Model.pdf)]
 - StructVIO: Visual-Inertial Odometry With Structural Regularity of Man-Made Environments, T-RO 2019 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/abstract/document/8731724)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/trans/T-RO/T-RO_2019/StructVIO-%20Visual-Inertial%20Odometry%20With%20Structural%20Regularity%20of%20Man-Made%20Environments.pdf)]
