@@ -31,6 +31,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 ---
 
 ### Recent Notes
+Y2021 May
+- Vid2Doppler: Synthesizing Doppler Radar Data from Videos for Training Privacy-Preserving Activity Recognition, CHI 2021 ```C1M1E1L1``` [[paper](https://karan-ahuja.com/assets/docs/paper/vid2dop.pdf)] [[video](https://www.youtube.com/watch?v=TKin-A3xYGc)] [[code](https://github.com/FIGLAB/Vid2Doppler)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CHI/CHI_2021/Vid2Doppler-%20Synthesizing%20Doppler%20Radar%20Data%20from%20Videos%20for%20Training%20Privacy-Preserving%20Activity%20Recognition.pdf)]
+
 Y2021 Apr
 - Selective Sensor Fusion for Neural Visual-Inertial Odometry, CVPR 2019 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Selective_Sensor_Fusion_for_Neural_Visual-Inertial_Odometry_CVPR_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2019/Selective%20Sensor%20Fusion%20for%20Neural%20Visual-Inertial%20Odometry.pdf)]
 - Combining Passive Visual Cameras and Active IMU Sensors to Track Cooperative People, FUSION 2015 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/7266712)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/FUSION/FUSION_2015/Combining%20Passive%20Visual%20Cameras%20and%20Active%20IMU%20Sensors%20to%20Track%20Cooperative%20People.pdf)]
