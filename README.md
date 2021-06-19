@@ -33,6 +33,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
 
 ### Recent Notes
+Y2021 Jun
+- Tracking Objects as Points, ECCV 2020 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2004.01177.pdf)] [[code](https://github.com/xingyizhou/CenterTrack)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/Tracking%20Objects%20as%20Points.pdf)]
+
 Y2021 May
 - Hierarchical Matching of 3D Pedestrian Trajectories for Surveillance Applications, AVSS 2009 ```C1M2E2L1``` [[paper](https://ieeexplore.ieee.org/document/5279585)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/AVSS/AVSS_2009/Hierarchical%20Matching%20of%203D%20Pedestrian%20Trajectories%20for%20Surveillance%20Applications.pdf)]
 - SenseHAR: A Robust Virtual Activity Sensor for Smartphonesand Wearables, SenSys 2019 ```C2M2E1L2``` [[paper](https://dl.acm.org/doi/pdf/10.1145/3356250.3360032)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/SenSys/SenSys_2019/SenseHAR-%20A%20Robust%20Virtual%20Activity%20Sensor%20for%20Smartphonesand%20Wearables.pdf)]
