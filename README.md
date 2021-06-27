@@ -34,6 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Jun
+- CenterNet: Keypoint Triplets for Object Detection, ICCV 2019 ```C1M1E1L1``` (Detection) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Duan_CenterNet_Keypoint_Triplets_for_Object_Detection_ICCV_2019_paper.pdf)] [[code](https://github.com/Duankaiwen/CenterNet)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/CenterNet-%20Keypoint%20Triplets%20for%20Object%20Detection.pdf)]
 - Tracking Objects as Points, ECCV 2020 ```C1M2E1L1``` (Tracking) [[paper](https://arxiv.org/pdf/2004.01177.pdf)] [[code](https://github.com/xingyizhou/CenterTrack)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/Tracking%20Objects%20as%20Points.pdf)]
 
 Y2021 May
