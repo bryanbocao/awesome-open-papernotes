@@ -34,7 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Jun
-- Tracking Objects as Points, ECCV 2020 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2004.01177.pdf)] [[code](https://github.com/xingyizhou/CenterTrack)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/Tracking%20Objects%20as%20Points.pdf)]
+- Tracking Objects as Points, ECCV 2020 ```C1M2E1L1``` (Tracking) [[paper](https://arxiv.org/pdf/2004.01177.pdf)] [[code](https://github.com/xingyizhou/CenterTrack)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/Tracking%20Objects%20as%20Points.pdf)]
 
 Y2021 May
 - Hierarchical Matching of 3D Pedestrian Trajectories for Surveillance Applications, AVSS 2009 ```C1M2E2L1``` [[paper](https://ieeexplore.ieee.org/document/5279585)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/AVSS/AVSS_2009/Hierarchical%20Matching%20of%203D%20Pedestrian%20Trajectories%20for%20Surveillance%20Applications.pdf)]
