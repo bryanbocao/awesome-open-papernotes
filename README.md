@@ -34,6 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Jul
+- Closing the Gaps in Inertial Motion Tracking, MobiCom 2018 ```C1M1E1L1``` (IMU) [[paper](https://dl.acm.org/doi/10.1145/3241539.3241582)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiCom/MobiCom_2018/Closing%20the%20Gaps%20in%20Inertial%20Motion%20Tracking.pdf)]
 - BIRNAT: Bidirectional Recurrent Neural Networks with Adversarial Training for Video Snapshot Compressive Imaging, ECCV 2020 ```C2M2E1L2``` (SCI) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690256.pdf)] [[code](https://github.com/BoChenGroup/BIRNAT)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/BIRNAT-%20Bidirectional%20Recurrent%20Neural%20Networks%20with%20Adversarial%20Training%20for%20Video%20Snapshot%20Compressive%20Imaging.pdf)]
 - MOTS: Multi-Object Tracking and Segmentation, CVPR 2019 ```C1M1E1L1``` (Tracking) [[paper](https://arxiv.org/pdf/1902.03604.pdf)] [[website](https://www.vision.rwth-aachen.de/page/mots)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2019/MOTS-%20Multi-Object%20Tracking%20and%20Segmentation.pdf)]
 - Towards Real-Time Multi-Object Tracking, ECCV 2020 ```C3M3E1L1``` (Tracking) [[paper](https://arxiv.org/pdf/1909.12605v1.pdf)] [[code](https://github.com/Zhongdao/Towards-Realtime-MOT)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/Towards%20Real-Time%20Multi-Object%20Tracking.pdf)]
