@@ -33,6 +33,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
 
 ### Recent Notes
+Y2021 Aug
+- IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition, IMWUT 2020 ```C1M1E1L1``` (IMU) [[paper](https://arxiv.org/pdf/2006.05675.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/IMWUT/IMWUT_2020/IMUTube-%20Automatic%20Extraction%20of%20Virtual%20on-body%20Accelerometry%20from%20Video%20for%20Human%20Activity%20Recognition.pdf)]
+
 Y2021 Jul
 - Enabling Public Cameras to Talk to the Public, IMWUT 2018 ```C1M1E1L1``` (IMU) [[paper](https://www.cs.purdue.edu/homes/bb/2020-fall-cs590bb/docs/vp/he-wang-phade-system-to-identify-people-based-on-gestures.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/IMWUT/IMWUT_2018/Enabling%20Public%20Cameras%20to%20Talk%20to%20the%20Public.pdf)]
 - Closing the Gaps in Inertial Motion Tracking, MobiCom 2018 ```C2M1E1L1``` (IMU) [[paper](https://dl.acm.org/doi/10.1145/3241539.3241582)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiCom/MobiCom_2018/Closing%20the%20Gaps%20in%20Inertial%20Motion%20Tracking.pdf)]
