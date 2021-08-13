@@ -34,6 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Aug
+- RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening, CVPR 2021 ```C1M1E1L1``` (UDA) [[paper](https://arxiv.org/pdf/2103.15597.pdf)] [[code](https://github.com/shachoi/RobustNet)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2021/RobustNet-%20Improving%20Domain%20Generalization%20in%20Urban-Scene%20Segmentation%20via%20Instance%20Selective%20Whitening.pdf)]
 - Let There Be IMU Data: Generating Training Data for Wearable, Motion Sensor Based Activity Recognition from Monocular RGB Videos, UbiComp 2019 ```C1M1E1L1``` (IMU) [[paper](https://dl.acm.org/doi/10.1145/3341162.3345590)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/UbiComp/UbiComp_2019/Let%20There%20Be%20IMU%20Data-%20Generating%20Training%20Data%20for%20Wearable%2C%20Motion%20Sensor%20Based%20Activity%20Recognition%20from%20Monocular%20RGB%20Videos.pdf)]
 - IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition, IMWUT 2020 ```C1M1E1L1``` (IMU) [[paper](https://arxiv.org/pdf/2006.05675.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/IMWUT/IMWUT_2020/IMUTube-%20Automatic%20Extraction%20of%20Virtual%20on-body%20Accelerometry%20from%20Video%20for%20Human%20Activity%20Recognition.pdf)]
 
