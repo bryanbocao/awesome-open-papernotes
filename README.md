@@ -34,6 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Aug
+- The Sound of Motions, ICCV 2019 ```C1M1E1L1``` (Multi-modal) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_The_Sound_of_Motions_ICCV_2019_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/The%20Sound%20of%20Motions.pdf)]
 - Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving, CVPR 2019 ```C1M1E1L1``` (3D_Detection) [[paper](https://arxiv.org/pdf/1812.07179.pdf)] [[code](https://github.com/mileyan/pseudo_lidar)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2019/Pseudo-LiDAR%20from%20Visual%20Depth%20Estimation-%20Bridging%20the%20Gap%20in%203D%20Object%20Detection%20for%20Autonomous%20Driving.pdf)]
 - Monocular Bird’s-Eye-View Semantic Segmentation for Autonomous Driving ```1``` [[blog](https://towardsdatascience.com/monocular-birds-eye-view-semantic-segmentation-for-autonomous-driving-ee2f771afb59)]
 - XModal-ID: Using WiFi for Through-Wall Person Identification from Candidate Video Footage, MobiCom 2019 ```C1M1E1L1``` (WiFi) [[paper](https://web.ece.ucsb.edu/~ymostofi/papers/MobiCom19_KoranyKaranamCaiMostofi.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiCom/MobiCom_2019/XModal-ID-%20Using%20WiFi%20for%20Through-Wall%20PersonIdentification%20from%20Candidate%20Video%20Footage.pdf)]
