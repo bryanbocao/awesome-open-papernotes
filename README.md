@@ -34,6 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Aug
+- Deep Tensor ADMM-Net for Snapshot Compressive Imaging, ICCV 2019 ```C1M1E1L1``` (SCI) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Deep_Tensor_ADMM-Net_for_Snapshot_Compressive_Imaging_ICCV_2019_paper.pdf)] [[code](https://github.com/Phoenix-V/tensor-admm-net-sci)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/Deep%20Tensor%20ADMM-Net%20for%20Snapshot%20Compressive%20Imaging.pdf)]
 - GAP-net for Snapshot Compressive Imaging ```C2M2E2L1``` (SCI) [[paper](https://arxiv.org/pdf/2012.08364.pdf)] [[code](https://github.com/mengziyi64/ADMM-net)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/GAP-net%20for%20Snapshot%20Compressive%20Imaging.pdf)]
 - Deep Plug-and-play Priors for Spectral Snapshot, OSA 2021 ```C1M1E1L1``` (SCI) [[paper](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-2-B18&id=446778)] [[code](https://github.com/zsm1211/PnP-CASSI)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/OSA/OSA_2021/Deep%20Plug-and-play%20Priors%20for%20Spectral%20Snapshot.pdf)]
 - Class-Aware Domain Adaptation for Semantic Segmentation of Remote Sensing Images, TGRS 2020 ```C1M1E1L1``` (UDA) [[paper](https://ieeexplore.ieee.org/document/9262039)] [[my repo](https://drive.google.com/drive/folders/1EvQtPNtgwXgFqEdHWIIqbPTRYe0FiZ8O?usp=sharing)]
