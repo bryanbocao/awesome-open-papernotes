@@ -34,7 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Sep
-- IDIoT: Towards Ubiquitous Identification of IoT Devices through Visual and Inertial Orientation Matching During Human Activity, IoTDI 2020 ```C1M1E1L1``` (IMU, HAR) [[paper](https://ieeexplore.ieee.org/abstract/document/9097600)] [[code](https://github.com/CarlosRDomin/IDIoT)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/IoTDI/IoTDI_2020/IDIoT-%20Towards%20Ubiquitous%20Identification%20of%20IoT%20Devices%20through%20Visual%20and%20Inertial%20Orientation%20Matching%20During%20Human%20Activity.pdf)]
+- IDIoT: Towards Ubiquitous Identification of IoT Devices through Visual and Inertial Orientation Matching During Human Activity, IoTDI 2020 ```C2M1E2L2``` (IMU, HAR) [[paper](https://ieeexplore.ieee.org/abstract/document/9097600)] [[code](https://github.com/CarlosRDomin/IDIoT)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/IoTDI/IoTDI_2020/IDIoT-%20Towards%20Ubiquitous%20Identification%20of%20IoT%20Devices%20through%20Visual%20and%20Inertial%20Orientation%20Matching%20During%20Human%20Activity.pdf)]
 
 Y2021 Aug
 - Deep Tensor ADMM-Net for Snapshot Compressive Imaging, ICCV 2019 ```C1M1E1L1``` (SCI) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Deep_Tensor_ADMM-Net_for_Snapshot_Compressive_Imaging_ICCV_2019_paper.pdf)] [[code](https://github.com/Phoenix-V/tensor-admm-net-sci)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICCV/ICCV_2019/Deep%20Tensor%20ADMM-Net%20for%20Snapshot%20Compressive%20Imaging.pdf)]
