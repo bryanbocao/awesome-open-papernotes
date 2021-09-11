@@ -34,7 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Sep
-- Total Capture: 3D Human Pose Estimation Fusing Video and Inertial Sensors, BMVC 2017 ```C1M1E1L1``` [[paper](https://cvssp.org/projects/totalcapture/TotalCapture/TrumbleBMVC2017.pdf)] [[website](https://cvssp.org/data/totalcapture/)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/BMVC/BMVC_2017/Total%20Capture-%203D%20Human%20Pose%20Estimation%20Fusing%20Video%20and%20Inertial%20Sensors.pdf)]
+- Total Capture: 3D Human Pose Estimation Fusing Video and Inertial Sensors, BMVC 2017 ```C3M3E3L3``` [[paper](https://cvssp.org/projects/totalcapture/TotalCapture/TrumbleBMVC2017.pdf)] [[website](https://cvssp.org/data/totalcapture/)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/BMVC/BMVC_2017/Total%20Capture-%203D%20Human%20Pose%20Estimation%20Fusing%20Video%20and%20Inertial%20Sensors.pdf)]
 - IDIoT: Towards Ubiquitous Identification of IoT Devices through Visual and Inertial Orientation Matching During Human Activity, IoTDI 2020 ```C2M1E2L2``` (IMU, HAR) [[paper](https://ieeexplore.ieee.org/abstract/document/9097600)] [[code](https://github.com/CarlosRDomin/IDIoT)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/IoTDI/IoTDI_2020/IDIoT-%20Towards%20Ubiquitous%20Identification%20of%20IoT%20Devices%20through%20Visual%20and%20Inertial%20Orientation%20Matching%20During%20Human%20Activity.pdf)]
 
 Y2021 Aug
