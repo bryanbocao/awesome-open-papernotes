@@ -34,6 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Sep
+- OAS-Net: Occlusion Aware Sampling Network for Accurate Optical Flow, ICASSP 2021 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/9413531)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ICASSP/ICASSP_2021/OAS-Net-%20Occlusion%20Aware%20Sampling%20Network%20for%20Accurate%20Optical%20Flow.pdf)]
 - GROOT: A Real-time Streaming System of High-Fidelity Volumetric Videos, MobiCom 2020 ```C2M2E1L1``` [[paper](https://juheonyi.github.io/files/GROOT.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiCom/MobiCom_2020/GROOT-%20A%20Real-time%20Streaming%20System%20of%20High-Fidelity%20Volumetric%20Videos.pdf)]
 - Image Super-Resolution Using Very Deep Residual Channel Attention Networks, ECCV 2018 ```C1M1E1L1``` (Super-Resolution) [[paper](https://arxiv.org/pdf/1807.02758.pdf)] [[code](https://github.com/yulunzhang/RCAN)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2018/Image%20Super-Resolution%20Using%20Very%20Deep%20Residual%20Channel%20Attention%20Networks.pdf)]
 - Single Image Super-Resolution via a Holistic Attention Network, ECCV 2020 ```C3M2E1L1``` (Super-Resolution) [[paper](https://arxiv.org/pdf/2008.08767.pdf)] [[code](https://github.com/wwlCape/HAN)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/ECCV/ECCV_2020/Single%20Image%20Super-Resolution%20via%20a%20Holistic%20Attention%20Network.pdf)]
