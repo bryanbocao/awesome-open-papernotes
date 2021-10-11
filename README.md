@@ -34,6 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Oct
+- Learning Sensor Interdependencies for IMU-to-Segment Assignment, Access 2021 ```C1M1E1L1``` (Vis, IMU, Multi-modal) [[paper](https://ieeexplore.ieee.org/abstract/document/9516022)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/Access/Access_2021/Learning%20Sensor%20Interdependencies%20for%20IMU-to-Segment%20Assignment.pdf)]
 - mID: Tracking and Identifying People with Millimeter Wave Radar, DCOSS 2019 ```C2M2E1L1``` [[paper](https://ieeexplore.ieee.org/document/8804831)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/DCOSS/DCOSS_2019/mID-%20Tracking%20and%20Identifying%20People%20with%20Millimeter%20Wave%20Radar.pdf)]
 
 Y2021 Sep
