@@ -33,6 +33,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
 
 ### Recent Notes
+Y2021 Nov
+- DeepVIO: Self-supervised Deep Learning of Monocular Visual Inertial Odometry using 3D Geometric Constraints, IROS 2019 ```C1M1E1L1``` (VIO) [[paper](https://arxiv.org/pdf/1906.11435.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/IROS/IROS_2019/DeepVIO-%20Self-supervised%20Deep%20Learning%20of%20Monocular%20Visual%20Inertial%20Odometry%20using%203D%20Geometric%20Constraints.pdf)]
+
 Y2021 Oct
 - Lossless Image Compression through Super-Resolution, 2020 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2004.02872.pdf)] [[code](https://github.com/caoscott/SReC)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Lossless%20Image%20Compression%20through%20Super-Resolution.pdf)]
 - When We First Met: Visual-Inertial Person Localization for Co-Robot Rendezvous, IROS 2020 ```C1M1E1L1``` [[paper](http://ras.papercept.net/images/temp/IROS/files/2079.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/IROS/IROS_2020/When%20We%20First%20Met-%20Visual-Inertial%20Person%20Localization%20for%20Co-Robot%20Rendezvous.pdf)]
