@@ -32,6 +32,8 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
 
+[jinwchoi's awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)
+
 ### Recent Notes
 Y2021 Nov
 - Masked Autoencoders Are Scalable Vision Learners, 2021 ```C2M2E2L1``` [[paper](https://arxiv.org/pdf/2111.06377.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Masked%20Autoencoders%20Are%20Scalable%20Vision%20Learners.pdf)]
