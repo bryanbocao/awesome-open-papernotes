@@ -30,9 +30,11 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ---
 
-[Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
+[pliang279's awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)
 
 [jinwchoi's awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)
+
+[abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
 Y2021 Nov
