@@ -34,7 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2021 Nov
-- Masked Autoencoders Are Scalable Vision Learners, 2021 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2111.06377.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Masked%20Autoencoders%20Are%20Scalable%20Vision%20Learners.pdf)]
+- Masked Autoencoders Are Scalable Vision Learners, 2021 ```C2M2E2L1``` [[paper](https://arxiv.org/pdf/2111.06377.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Masked%20Autoencoders%20Are%20Scalable%20Vision%20Learners.pdf)]
 - DeepVIO: Self-supervised Deep Learning of Monocular Visual Inertial Odometry using 3D Geometric Constraints, IROS 2019 ```C1M1E1L1``` (VIO) [[paper](https://arxiv.org/pdf/1906.11435.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/IROS/IROS_2019/DeepVIO-%20Self-supervised%20Deep%20Learning%20of%20Monocular%20Visual%20Inertial%20Odometry%20using%203D%20Geometric%20Constraints.pdf)]
 
 Y2021 Oct
