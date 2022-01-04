@@ -37,6 +37,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2021 Dec
+- Self-supervised Learning for Reading Activity Classification, IMWUT 2021 ```C1M1E1L1``` (IMU, Self-Supervised Learning, HAR) [[paper](https://arxiv.org/pdf/2012.03598.pdf)] [[video](https://www.youtube.com/watch?v=OSVNI3ijeqU)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/IMWUT/IMWUT_2021/Self-supervised%20Learning%20for%20Reading%20Activity%20Classification.pdf)]
+
 Y2021 Nov
 - Gaussian Error Linear Units, arXiv 2016 ```C2M2E1L1``` [[paper](https://arxiv.org/pdf/1606.08415.pdf)] [[code](https://github.com/hendrycks/GELUs)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/Gaussian%20Error%20Linear%20Units.pdf)]
 - LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMUSensing Applications, _Best paper runner-up_ SenSys 2021 ```C3M2E2L1``` (IMU, Self-Supervised Learning, HAR, DPC) [[paper](https://tanrui.github.io/pub/LIMU_BERT.pdf)] [[code](https://github.com/dapowan/LIMU-BERT-Public)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/SenSys/SenSys_2021/LIMU-BERT-%20Unleashing%20the%20Potential%20of%20Unlabeled%20Data%20for%20IMUSensing%20Applications.pdf)]
