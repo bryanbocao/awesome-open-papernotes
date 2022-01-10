@@ -44,6 +44,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 ### Recent Notes
 
 Y2022 Jan
+- Verification: Accuracy Evaluation of WiFi Fine Time Measurements on an Open Platform, MobiCom 2018 ```C1M1E1L1``` (FTM) [[paper](https://dl.acm.org/doi/10.1145/3241539.3241555)] [[video](https://www.youtube.com/watch?v=CR8PBpSh2kQ)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiCom/MobiCom_2018/Verification-%20Accuracy%20Evaluation%20of%20WiFi%20Fine%20Time%20Measurements%20on%20an%20Open%20Platform.pdf)]
 - Zero-Shot Learning for IMU-Based Activity Recognition Using Video Embeddings, IMWUT 2021 ```C1M1E1L1``` (IMU, Zero-Shot Learning, HAR) [[paper](https://dl.acm.org/doi/10.1145/3494995)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/IMWUT/IMWUT_2021/Zero-Shot%20Learning%20for%20IMU-Based%20Activity%20Recognition%20Using%20Video%20Embeddings.pdf)]
 
 Y2021 Dec
