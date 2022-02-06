@@ -43,6 +43,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 Feb
+- FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition, SenSys 2021 ```C1M1E1L1``` (Federated Learning, IMU, HAR) [[paper](https://dl.acm.org/doi/abs/10.1145/3485730.3485946)] [[video](https://www.youtube.com/watch?v=zLDGgouZAYA)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/SenSys/SenSys_2021/FedDL-%20Federated%20Learning%20via%20Dynamic%20Layer%20Sharing%20for%20Human%20Activity%20Recognition.pdf)]
 - ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition, MobiSys 2021 ```C1M1E1L1``` (Federated Learning, IMU, HAR) [[paper](https://aiot.ie.cuhk.edu.hk/papers/ClusterFL.pdf)] [[video](https://www.youtube.com/watch?v=MqkCa5417BE)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiSys/MobiSys_2021/ClusterFL-%20A%20Similarity-Aware%20Federated%20Learning%20System%20for%20Human%20Activity%20Recognition.pdf)]
 
 Y2022 Jan
