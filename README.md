@@ -42,6 +42,8 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2022 Feb
+- ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition, MobiSys 2021 ```C1M1E1L1``` (Federated Learning, IMU, HAR) [[paper](https://aiot.ie.cuhk.edu.hk/papers/ClusterFL.pdf)] [[video](https://www.youtube.com/watch?v=MqkCa5417BE)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/MobiSys/MobiSys_2021/ClusterFL-%20A%20Similarity-Aware%20Federated%20Learning%20System%20for%20Human%20Activity%20Recognition.pdf)]
 
 Y2022 Jan
 - Seeing Voices and Hearing Faces: Cross-modal biometric matching, CVPR 2018 ```C2M3E2L2``` (Multi-modal) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Nagrani_Seeing_Voices_and_CVPR_2018_paper.pdf)] [[website](https://www.robots.ox.ac.uk/~vgg/research/CMBiometrics/)] [[video](https://www.youtube.com/watch?v=AJt993-VGsk)] [[dataset](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)] [[code](https://github.com/clovaai/voxceleb_trainer)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2018/Seeing%20Voices%20and%20Hearing%20Faces-%20Cross-modal%20biometric%20matching.pdf)]
