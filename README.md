@@ -43,6 +43,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 Feb
+- Multi-Stage Progressive Image Restoration, CVPR 2021 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zamir_Multi-Stage_Progressive_Image_Restoration_CVPR_2021_paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/2102.02808.pdf)] [[code](https://github.com/swz30/MPRNet)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2021/Multi-Stage%20Progressive%20Image%20Restoration.pdf)]
 - A ConvNet for the 2020s, arXiv 2022 ```C1M1E1L1``` [[paper arXiv](https://arxiv.org/pdf/2201.03545.pdf)] [[code](https://github.com/facebookresearch/ConvNeXt)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/A%20ConvNet%20for%20the%202020s.pdf)]
 - A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning, CVPR 2017 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2017/A%20Gift%20from%20Knowledge%20Distillation-%20Fast%20Optimization%2C%20Network%20Minimization%20and%20Transfer%20Learning.pdf)]
 - Going Deeper with Convolutions, CVPR 2015 ```C1M1E1L1``` [[paper](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)] [[code](https://pytorch.org/hub/pytorch_vision_googlenet/)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2015/Going%20Deeper%20with%20Convolutions.pdf)]
