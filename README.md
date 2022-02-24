@@ -43,6 +43,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 Feb
+- Knowledge Distillation: A Survey, IJCV 2021 ```C1M1E1L1``` [[paper](https://link.springer.com/article/10.1007/s11263-021-01453-z)] [[paper arXiv](https://arxiv.org/pdf/2006.05525.pdf)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/journals/IJCV/IJCV_2021/Knowledge%20Distillation-%20A%20Survey.pdf)]
 - Distilling the Knowledge in a Neural Network, NIPSW 2015 ```C1M1E1L1``` [[paper](https://research.google/pubs/pub44873/)] [[paper arXiv](https://arxiv.org/pdf/1503.02531.pdf)] [[code](https://github.com/AberHu/Knowledge-Distillation-Zoo)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/NIPS/NIPSW_2015/Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.pdf)]
 - Multi-Stage Progressive Image Restoration, CVPR 2021 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zamir_Multi-Stage_Progressive_Image_Restoration_CVPR_2021_paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/2102.02808.pdf)] [[code](https://github.com/swz30/MPRNet)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/confs/CVPR/CVPR_2021/Multi-Stage%20Progressive%20Image%20Restoration.pdf)]
 - A ConvNet for the 2020s, arXiv 2022 ```C1M1E1L1``` [[paper arXiv](https://arxiv.org/pdf/2201.03545.pdf)] [[code](https://github.com/facebookresearch/ConvNeXt)] [[my repo](https://github.com/BryanBo-Cao/papers/blob/master/others/A%20ConvNet%20for%20the%202020s.pdf)]
