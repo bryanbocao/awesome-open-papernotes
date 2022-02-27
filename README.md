@@ -34,6 +34,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [Y2020](https://github.com/BryanBo-Cao/open-papernotes/blob/master/records/Y2020.md)
 [Y2019](https://github.com/BryanBo-Cao/open-papernotes/blob/master/records/Y2019.md)
 
+[xiaobai1217's Awesome-Video-Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets)
 
 [pliang279's awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)
 
