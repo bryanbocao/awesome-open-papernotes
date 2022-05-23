@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 May
+- PANDA: A Gigapixel-level Human-centric Video Dataset, CVPR 2020 ```C1M1E1L1``` (Dataset, Object Detection, Tracking) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_PANDA_A_Gigapixel-Level_Human-Centric_Video_Dataset_CVPR_2020_paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/2003.04852.pdf)] [[dataset](http://www.panda-dataset.com/index.html)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/confs/CVPR/CVPR_2020/PANDA-%20A%20Gigapixel-level%20Human-centric%20Video%20Dataset.pdf)]
 - Flexible High-resolution Object Detection on Edge Devices with Tunable Latency, MobiCom 2021 ```C1M1E1L1``` (EfficientML, Object Detection) [[paper](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/confs/MobiCom/MobiCom_2021/Flexible%20High-resolution%20Object%20Detection%20on%20Edge%20Devices%20with%20Tunable%20Latency.pdf)]
 
 Y2022 Apr
