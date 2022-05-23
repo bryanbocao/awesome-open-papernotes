@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2022 May
+- Flexible High-resolution Object Detection on Edge Devices with Tunable Latency, MobiCom 2021 ```C1M1E1L1``` (EfficientML, Object Detection) [[paper](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/confs/MobiCom/MobiCom_2021/Flexible%20High-resolution%20Object%20Detection%20on%20Edge%20Devices%20with%20Tunable%20Latency.pdf)]
+
 Y2022 Apr
 - Vi-Fi: Associating Moving Subjects across Vision and Wireless Sensors, IPSN 2022 ```C4M4E3L3``` (Multimodal, Association, IMU, WiFi, FTM) [[paper](https://www.winlab.rutgers.edu/~hansiiii/papers/ViFi_Paper___IPSN_2022__Camera_Ready_.pdf)] [[dataset](https://sites.google.com/winlab.rutgers.edu/vi-fidataset/home)] [[code](https://github.com/vifi2021/Vi-Fi)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/confs/IPSN/IPSN_2022/Vi-Fi-%20Associating%20Moving%20Subjects%20across%20Vision%20and%20Wireless%20Sensors.pdf)]
 
