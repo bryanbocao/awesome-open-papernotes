@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 June
-- Tinier-YOLO: A Real-Time Object Detection Method for Constrained Environments, Access 2019 ```C1M1E1L1``` (Object Detection, EfficientML) [[paper](https://ieeexplore.ieee.org/document/8941141)] [[code](https://github.com/jnfrancis/Tinier-YOLO)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/journals/Access/Access_2019/Tinier-YOLO-%20A%20Real-Time%20Object%20Detection%20Method%20for%20Constrained%20Environments.pdf)]
+- Tinier-YOLO: A Real-Time Object Detection Method for Constrained Environments, Access 2019 ```C4M4E2L1``` (Object Detection, EfficientML) [[note](https://github.com/bryanbo-cao/open-papernotes/tree/master/notes/journals/Access/Access_2019)] [[paper](https://ieeexplore.ieee.org/document/8941141)] [[code](https://github.com/jnfrancis/Tinier-YOLO)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/journals/Access/Access_2019/Tinier-YOLO-%20A%20Real-Time%20Object%20Detection%20Method%20for%20Constrained%20Environments.pdf)]
 
 Y2022 May
 - PANDA: A Gigapixel-level Human-centric Video Dataset, CVPR 2020 ```C1M1E1L1``` (Dataset, Object Detection, Tracking) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_PANDA_A_Gigapixel-Level_Human-Centric_Video_Dataset_CVPR_2020_paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/2003.04852.pdf)] [[dataset](http://www.panda-dataset.com/index.html)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/confs/CVPR/CVPR_2020/PANDA-%20A%20Gigapixel-level%20Human-centric%20Video%20Dataset.pdf)]
