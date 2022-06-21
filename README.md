@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 June
+- LiteEval: A Coarse-to-Fine Framework for Resource Efficient Video Recognition, NeurIPS 2019 ```C1M1E1L1``` (EfficientML) [[paper](https://proceedings.neurips.cc/paper/2019/file/bd853b475d59821e100d3d24303d7747-Paper.pdf)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/confs/NIPS/NeurIPS_2019/LiteEval-%20A%20Coarse-to-Fine%20Framework%20for%20Resource%20Efficient%20Video%20Recognition.pdf)]
 - Tinier-YOLO: A Real-Time Object Detection Method for Constrained Environments, Access 2019 ```C4M4E2L1``` (Object Detection, EfficientML) [[note](https://github.com/bryanbo-cao/open-papernotes/tree/master/notes/journals/Access/Access_2019)] [[paper](https://ieeexplore.ieee.org/document/8941141)] [[code](https://github.com/jnfrancis/Tinier-YOLO)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/journals/Access/Access_2019/Tinier-YOLO-%20A%20Real-Time%20Object%20Detection%20Method%20for%20Constrained%20Environments.pdf)]
 
 Y2022 May
