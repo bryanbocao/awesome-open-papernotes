@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2022 July
+- Learning Visual Similarity for Product Design with Convolutional Neural Networks, TOG 2015 ```C1M1E1L1``` (Visual Similarity) [[paper](https://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/trans/TOG/TOG_2015/Learning%20Visual%20Similarity%20for%20Product%20Design%20with%20Convolutional%20Neural%20Networks.pdf)]
+
 Y2022 June
 - YOLOv4: Optimal Speed and Accuracy of Object Detection, arXiv 2020 ```C2M2E1L1``` (EfficientML) [[paper arXiv]([https://github.com/bryanbo-cao/papers/blob/master/others/YOLOv4-%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection.pdf](https://arxiv.org/pdf/2004.10934.pdf))] [[code](https://github.com/AlexeyAB/darknet)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/others/YOLOv4-%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection.pdf)]
 - Focal Loss for Dense Object Detection, ICCV 2017 ```C1M1E1L1``` (EfficientML) [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/1708.02002.pdf)] [[code](https://github.com/facebookresearch/Detectron)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/confs/ICCV/ICCV_2017/Focal%20Loss%20for%20Dense%20Object%20Detection.pdf)]
