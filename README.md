@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 July
+- Visual and Semantic Similarity in ImageNet, CVPR 2011 ```C1M1E1L1``` (Visual Similarity) [[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37065.pdf)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/confs/CVPR/CVPR_2011/Visual%20and%20Semantic%20Similarity%20in%20ImageNet.pdf)]
 - Learning Visual Similarity for Product Design with Convolutional Neural Networks, TOG 2015 ```C3M3E1L1``` (Visual Similarity) [[paper](https://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/trans/TOG/TOG_2015/Learning%20Visual%20Similarity%20for%20Product%20Design%20with%20Convolutional%20Neural%20Networks.pdf)]
 
 Y2022 June
