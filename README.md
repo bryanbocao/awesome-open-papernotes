@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 Aug
-- Combining Passive Visual Cameras and Active IMU Sensors for Persistent Pedestrian Tracking, JVisCommunImageRepresent 2017 ```C1M1E1L1``` (IMU, Tracking) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320317300834)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/JVisCommunImageRepresent/JVisCommunImageRepresent_2017/Combining%20Passive%20Visual%20Cameras%20and%20Active%20IMU%20Sensors%20for%20Persistent%20Pedestrian%20Tracking.pdf)]
+- Combining Passive Visual Cameras and Active IMU Sensors for Persistent Pedestrian Tracking, JVisCommunImageRepresent 2017 ```C2M2E1L1``` (IMU, Tracking) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320317300834)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/JVisCommunImageRepresent/JVisCommunImageRepresent_2017/Combining%20Passive%20Visual%20Cameras%20and%20Active%20IMU%20Sensors%20for%20Persistent%20Pedestrian%20Tracking.pdf)]
 
 Y2022 July
 - YOLO-ReT: Towards High Accuracy Real-time Object Detection on Edge GPUs, WACV 2022 ```C2M2E2L1``` (EfficientML) [[code](https://github.com/prakharg24/yoloret)] [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Ganesh_YOLO-ReT_Towards_High_Accuracy_Real-Time_Object_Detection_on_Edge_GPUs_WACV_2022_paper.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/WACV/WACV_2022/YOLO-ReT-%20Towards%20High%20Accuracy%20Real-time%20Object%20Detection%20on%20Edge%20GPUs.pdf)]
