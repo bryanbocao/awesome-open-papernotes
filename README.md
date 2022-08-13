@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2022 Aug
+- Combining Passive Visual Cameras and Active IMU Sensors for Persistent Pedestrian Tracking, JVisCommunImageRepresent 2017 ```C1M1E1L1``` (IMU, Tracking) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320317300834)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/JVisCommunImageRepresent/JVisCommunImageRepresent_2017/Combining%20Passive%20Visual%20Cameras%20and%20Active%20IMU%20Sensors%20for%20Persistent%20Pedestrian%20Tracking.pdf)]
+
 Y2022 July
 - YOLO-ReT: Towards High Accuracy Real-time Object Detection on Edge GPUs, WACV 2022 ```C2M2E2L1``` (EfficientML) [[code](https://github.com/prakharg24/yoloret)] [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Ganesh_YOLO-ReT_Towards_High_Accuracy_Real-Time_Object_Detection_on_Edge_GPUs_WACV_2022_paper.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/WACV/WACV_2022/YOLO-ReT-%20Towards%20High%20Accuracy%20Real-time%20Object%20Detection%20on%20Edge%20GPUs.pdf)]
 - Exploiting the Redundancy in Convolutional Filters for Parameter Reduction, WACV 2021 ```C2M2E1L1``` (EfficientML) [[code](https://github.com/kkahatapitiya/LinearConv)] [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Kahatapitiya_Exploiting_the_Redundancy_in_Convolutional_Filters_for_Parameter_Reduction_WACV_2021_paper.pdf)] [[my repo](https://github.com/bryanbo-cao/papers/blob/master/confs/WACV/WACV_2021/Exploiting%20the%20Redundancy%20in%20Convolutional%20Filters%20for%20Parameter%20Reduction.pdf)]
