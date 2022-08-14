@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 Aug
+- Entropy and Mutual Information in Models of Deep Neural Networks, NeurIPS 2018 ```C1M1E1L1``` (EfficientML) [[paper](https://papers.nips.cc/paper/2018/file/6d0f846348a856321729a2f36734d1a7-Paper.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/NIPS/NeurIPS_2018/Entropy%20and%20Mutual%20Information%20in%20Models%20of%20Deep%20Neural%20Networks.pdf)]
 - Deep Learning and the Information Bottleneck Principle, ITW 2015 ```C2M2E1L1``` (EfficientML) [[paper](https://ieeexplore.ieee.org/document/7133169)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ITW/ITW_2015/Deep%20Learning%20and%20the%20Information%20Bottleneck%20Principle.pdf)]
 - Combining Passive Visual Cameras and Active IMU Sensors for Persistent Pedestrian Tracking, JVisCommunImageRepresent 2017 ```C2M2E1L1``` (IMU, Tracking) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320317300834)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/JVisCommunImageRepresent/JVisCommunImageRepresent_2017/Combining%20Passive%20Visual%20Cameras%20and%20Active%20IMU%20Sensors%20for%20Persistent%20Pedestrian%20Tracking.pdf)]
 
