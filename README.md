@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2022 Sep
+- Classifier Recommendation Using Data Complexity Measures, ICPR 2018 ```C1M1E1L1``` (EfficientML) [[paper](https://ieeexplore.ieee.org/document/8545110)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICPR/ICPR_2018/Classifier%20Recommendation%20Using%20Data%20Complexity%20Measures.pdf)]
+
 Y2022 Aug
 - Complexity of Representations in Deep Learning, ICPR 2022 ```C3M3E3L2``` (EfficientML) [[paper](https://arxiv.org/pdf/2209.00525.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICPR/ICPR_2022/Complexity%20of%20Representations%20in%20Deep%20Learning.pdf)]
 - MissFormer: (In-)attention-based Handling of Missing Observations for Trajectory Filtering and Prediction, ISVC 2021 ```C3M2E2L2``` (EfficientML) [[paper](https://link.springer.com/chapter/10.1007/978-3-030-90439-5_41)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ISVC/ISVC_2021/MissFormer-%20(In-)attention-based%20Handling%20of%20Missing%20Observations%20for%20Trajectory%20Filtering%20and%20Prediction.pdf)]
