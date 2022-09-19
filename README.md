@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 Sep
+- TinyViT: Fast Pretraining Distillation for Small Vision Transformers, ECCV 2022 ```C1M1E1L1``` (EfficientML, Transformer) [[code](https://github.com/microsoft/Cream/tree/main/TinyViT)] [[paper](https://arxiv.org/pdf/2207.10666.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ECCV/ECCV_2022/TinyViT-%20Fast%20Pretraining%20Distillation%20for%20Small%20Vision%20Transformers.pdf)]
 - Classifier Recommendation Using Data Complexity Measures, ICPR 2018 ```C1M1E1L1``` (EfficientML) [[paper](https://ieeexplore.ieee.org/document/8545110)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICPR/ICPR_2018/Classifier%20Recommendation%20Using%20Data%20Complexity%20Measures.pdf)]
 
 Y2022 Aug
