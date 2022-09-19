@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 Aug
+- Complexity of Representations in Deep Learning, ICPR 2022 ```C1M1E1L1``` (EfficientML) [[paper](https://arxiv.org/pdf/2209.00525.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICPR/ICPR_2022/Complexity%20of%20Representations%20in%20Deep%20Learning.pdf)]
 - MissFormer: (In-)attention-based Handling of Missing Observations for Trajectory Filtering and Prediction, ISVC 2021 ```C3M2E2L2``` (EfficientML) [[paper](https://link.springer.com/chapter/10.1007/978-3-030-90439-5_41)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ISVC/ISVC_2021/MissFormer-%20(In-)attention-based%20Handling%20of%20Missing%20Observations%20for%20Trajectory%20Filtering%20and%20Prediction.pdf)]
 - Entropy-Constrained Training of Deep Neural Networks, IJCNN 2019 ```C1M1E1L1``` (EfficientML) [[paper](https://ieeexplore.ieee.org/document/8852119)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/IJCNN/IJCNN_2019/Entropy-Constrained%20Training%20of%20Deep%20Neural%20Networks.pdf)]
 - Entropy and Mutual Information in Models of Deep Neural Networks, NeurIPS 2018 ```C1M1E1L1``` (EfficientML) [[paper](https://papers.nips.cc/paper/2018/file/6d0f846348a856321729a2f36734d1a7-Paper.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/NIPS/NeurIPS_2018/Entropy%20and%20Mutual%20Information%20in%20Models%20of%20Deep%20Neural%20Networks.pdf)]
