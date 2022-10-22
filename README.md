@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 Oct
-- Towards Streaming Perception, ECCV 2020 ```C1M1E1L1``` [[paper](https://www.cs.cmu.edu/~mengtial/proj/streaming/Martin%20-%20Streaming%20Perception.pdf?v=0.1)] [[website](https://www.cs.cmu.edu/~mengtial/proj/streaming/)] [[YouTube](https://www.youtube.com/watch?v=x6AJnk2ph00)] [[Bilibili](https://www.bilibili.com/video/BV1rD4y127EM/)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ECCV/ECCV_2020/Towards%20Streaming%20Perception.pdf)]
+- Towards Streaming Perception, ECCV 2020 ```C3M1E1L1``` [[paper](https://www.cs.cmu.edu/~mengtial/proj/streaming/Martin%20-%20Streaming%20Perception.pdf?v=0.1)] [[website](https://www.cs.cmu.edu/~mengtial/proj/streaming/)] [[YouTube](https://www.youtube.com/watch?v=x6AJnk2ph00)] [[Bilibili](https://www.bilibili.com/video/BV1rD4y127EM/)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ECCV/ECCV_2020/Towards%20Streaming%20Perception.pdf)]
 
 Y2022 Sep
 - YOLOv7: Trainable Bag-of-freebies Sets New State-of-the-art for Real-time Object Detectors, 2022 ```C1M1E1L1``` [[paper](https://arxiv.org/pdf/2207.02696.pdf)] [[code](https://github.com/WongKinYiu/yolov7)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/YOLOv7-%20Trainable%20Bag-of-freebies%20Sets%20New%20State-of-the-art%20for%20Real-time%20Object%20Detectors.pdf)]
