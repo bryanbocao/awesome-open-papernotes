@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 Nov
+- End-to-End Video-To-Speech Synthesis using Generative Adversarial Networks, TransCybern 2022 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/9760273)] [[paper arXiv](https://arxiv.org/pdf/2104.13332.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/trans/TransCybern/TransCybern_2022/End-to-End%20Video-To-Speech%20Synthesis%20using%20Generative%20Adversarial%20Networks.pdf)]
 - Structural Pruning via Latency-Saliency Knapsack, NeurIPS 2022 ```C2M1E1L1``` [[paper](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=52841)] [[paper arXiv](https://arxiv.org/pdf/2210.06659.pdf)] [[website](https://halp-neurips.github.io/)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/NIPS/NeurIPS_2022/Structural%20Pruning%20via%20Latency-Saliency%20Knapsack.pdf)]
 
 Y2022 Oct
