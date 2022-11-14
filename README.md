@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2022 Nov
+- Structural Pruning via Latency-Saliency Knapsack, NeurIPS 2022 ```C1M1E1L1``` [[paper](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=52841)] [[paper arXiv](https://arxiv.org/pdf/2210.06659.pdf)] [[website](https://halp-neurips.github.io/)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/NIPS/NeurIPS_2022/Structural%20Pruning%20via%20Latency-Saliency%20Knapsack.pdf)]
+
 Y2022 Oct
 - Towards Streaming Perception, ECCV 2020 ```C3M1E1L1``` [[paper](https://www.cs.cmu.edu/~mengtial/proj/streaming/Martin%20-%20Streaming%20Perception.pdf?v=0.1)] [[website](https://www.cs.cmu.edu/~mengtial/proj/streaming/)] [[YouTube](https://www.youtube.com/watch?v=x6AJnk2ph00)] [[Bilibili](https://www.bilibili.com/video/BV1rD4y127EM/)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ECCV/ECCV_2020/Towards%20Streaming%20Perception.pdf)]
 
