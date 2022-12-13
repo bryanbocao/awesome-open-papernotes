@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2022 Dec
+- MMT: Multi-Way Multi-Modal Transformer for Multimodal Learning, IJCAI 2022 ```C1M1E1L1``` [[paper](https://www.ijcai.org/proceedings/2022/0480.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/IJCAI/IJCAI_2022/MMT-%20Multi-Way%20Multi-Modal%20Transformer%20for%20Multimodal%20Learning.pdf)]
+
 Y2022 Nov
 - How Do Vision Transformers Work?, ICLR 2022 ```C3M2E1L1``` [[paper](https://openreview.net/pdf?id=D78Go4hVcxO)] [[paper arXiv](https://arxiv.org/pdf/2202.06709.pdf)] [[forum](https://openreview.net/forum?id=D78Go4hVcxO)] [[code](https://github.com/xxxnell/how-do-vits-work)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICLR/ICLR_2022/How%20Do%20Vision%20Transformers%20Work%3F.pdf)]
 - End-to-End Video-To-Speech Synthesis using Generative Adversarial Networks, TransCybern 2022 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/9760273)] [[paper arXiv](https://arxiv.org/pdf/2104.13332.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/trans/TransCybern/TransCybern_2022/End-to-End%20Video-To-Speech%20Synthesis%20using%20Generative%20Adversarial%20Networks.pdf)]
