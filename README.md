@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 Dec
+- SparseTT: Visual Tracking with Sparse Transformers, IJCAI 2022 ```C1M1E1L1``` [[paper](https://www.ijcai.org/proceedings/2022/0127.pdf)] [[code](https://github.com/fzh0917/SparseTT)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/IJCAI/IJCAI_2022/SparseTT-%20Visual%20Tracking%20with%20Sparse%20Transformers.pdf)]
 - MMT: Multi-Way Multi-Modal Transformer for Multimodal Learning, IJCAI 2022 ```C1M1E1L1``` [[paper](https://www.ijcai.org/proceedings/2022/0480.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/IJCAI/IJCAI_2022/MMT-%20Multi-Way%20Multi-Modal%20Transformer%20for%20Multimodal%20Learning.pdf)]
 
 Y2022 Nov
