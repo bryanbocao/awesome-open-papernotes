@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2022 Dec
+- Self-supervised Geometric Correspondence for Category-level 6D Object Pose Estimation in the Wild, ICLR 2023 ```C1M1E1L1``` [[paper](https://openreview.net/pdf?id=ZKDUlVMqG_O)] [[forum](https://openreview.net/forum?id=ZKDUlVMqG_O)] [[my repo](https://drive.google.com/file/d/1JD2CLB0Wip-K1smCudv6K9q4k8B3Wq3y/view?usp=sharing)]
 - PieAPP: Perceptual Image-Error Assessment through Pairwise Preference, CVPR 2018 ```C1M1E1L1``` [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Prashnani_PieAPP_Perceptual_Image-Error_CVPR_2018_paper.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2018/PieAPP-%20Perceptual%20Image-Error%20Assessment%20through%20Pairwise%20Preference.pdf)]
 - Angle-Regulated Transformer Network for Pedestrian Trajectory Prediction, IJCAIW 2022 ```C1M1E1L1``` [[paper](https://www.dropbox.com/s/dbgrk9jr1dg84nx/21.pdf?dl=0)] [[YouTube](https://www.youtube.com/watch?v=mlMV-7JoBO4&t=5s)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/IJCAI/IJCAIW_2022/Angle-Regulated%20Transformer%20Network%20for%20Pedestrian%20Trajectory%20Prediction.pdf)]
 - SparseTT: Visual Tracking with Sparse Transformers, IJCAI 2022 ```C1M1E1L1``` [[paper](https://www.ijcai.org/proceedings/2022/0127.pdf)] [[code](https://github.com/fzh0917/SparseTT)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/IJCAI/IJCAI_2022/SparseTT-%20Visual%20Tracking%20with%20Sparse%20Transformers.pdf)]
