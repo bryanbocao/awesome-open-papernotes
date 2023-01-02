@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2023 Jan
+- S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction, arXiv 2022 ```C1M1E1L1``` (CASSI, SCI, HSI) [[paper](https://arxiv.org/pdf/2209.12075.pdf)] [[code](https://github.com/Jiamian-Wang/S2-transformer-HSI)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/S2-Transformer%20for%20Mask-Aware%20Hyperspectral%20Image%20Reconstruction.pdf)]
+
 Y2022 Dec
 - Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence, SenSys 2020 ```C1M1E1L1``` (Video Analytics) [[paper](https://dl.acm.org/doi/10.1145/3384419.3430721)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/SenSys/SenSys_2020/Distream-%20Scaling%20Live%20Video%20Analytics%20with%20Workload-Adaptive%20Distributed%20Edge%20Intelligence.pdf)]
 - AWStream: Adaptive Wide-Area Streaming Analytics, SIGCOMM 2018 ```C1M1E1L1``` (Video Analytics) [[paper](https://dl.acm.org/doi/abs/10.1145/3230543.3230554)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/SIGCOMM/SIGCOMM_2018/AWStream-%20Adaptive%20Wide-Area%20Streaming%20Analytics.pdf)]
