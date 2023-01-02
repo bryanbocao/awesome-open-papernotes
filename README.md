@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Jan
-- S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction, arXiv 2022 ```C1M1E1L1``` (CASSI, SCI, HSI) [[paper](https://arxiv.org/pdf/2209.12075.pdf)] [[code](https://github.com/Jiamian-Wang/S2-transformer-HSI)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/S2-Transformer%20for%20Mask-Aware%20Hyperspectral%20Image%20Reconstruction.pdf)]
+- S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction, arXiv 2022 ```C2M2E2L1``` (CASSI, SCI, HSI) [[paper](https://arxiv.org/pdf/2209.12075.pdf)] [[code](https://github.com/Jiamian-Wang/S2-transformer-HSI)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/S2-Transformer%20for%20Mask-Aware%20Hyperspectral%20Image%20Reconstruction.pdf)]
 
 Y2022 Dec
 - Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence, SenSys 2020 ```C1M1E1L1``` (Video Analytics) [[paper](https://dl.acm.org/doi/10.1145/3384419.3430721)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/SenSys/SenSys_2020/Distream-%20Scaling%20Live%20Video%20Analytics%20with%20Workload-Adaptive%20Distributed%20Edge%20Intelligence.pdf)]
