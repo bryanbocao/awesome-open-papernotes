@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Jan
-- Blurs Behave Like Ensembles: Spatial Smoothings to Improve Accuracy, Uncertainty, and Robustness, ICML 2022 ```C1M1E1L1``` [[paper](https://proceedings.mlr.press/v162/park22b/park22b.pdf)] [[code](https://github.com/xxxnell/spatial-smoothing)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICML/ICML_2022/Blurs%20Behave%20Like%20Ensembles-%20Spatial%20Smoothings%20to%20Improve%20Accuracy%2C%20Uncertainty%2C%20and%20Robustness%20-%20Annoated.pdf)]
+- Blurs Behave Like Ensembles: Spatial Smoothings to Improve Accuracy, Uncertainty, and Robustness, ICML 2022 ```C2M2E1L2``` [[paper](https://proceedings.mlr.press/v162/park22b/park22b.pdf)] [[code](https://github.com/xxxnell/spatial-smoothing)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICML/ICML_2022/Blurs%20Behave%20Like%20Ensembles-%20Spatial%20Smoothings%20to%20Improve%20Accuracy%2C%20Uncertainty%2C%20and%20Robustness%20-%20Annoated.pdf)]
 - S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction, arXiv 2022 ```C2M2E2L1``` (CASSI, SCI, HSI) [[paper](https://arxiv.org/pdf/2209.12075.pdf)] [[code](https://github.com/Jiamian-Wang/S2-transformer-HSI)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/S2-Transformer%20for%20Mask-Aware%20Hyperspectral%20Image%20Reconstruction.pdf)]
 
 Y2022 Dec
