@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2023 Feb
+- Digging Into Self-Supervised Monocular Depth Estimation, ICCV 2019 ```C1M1E1L1``` (SSL, Depth Estimation) [[paper arXiv](https://arxiv.org/pdf/1806.01260.pdf)] [[code](www.github.com/nianticlabs/monodepth2)] [[YouTube](https://www.youtube.com/watch?v=sIN1Tp3wIbQ)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICCV/ICCV_2019/Digging%20Into%20Self-Supervised%20Monocular%20Depth%20Estimation.pdf)]
+
 Y2023 Jan
 - Cross Aggregation Transformer for Image Restoration, NeurIPS 2022 ```C3M2E1L1``` (Image Restoration) [[paper arXiv](https://arxiv.org/pdf/2211.13654.pdf)] [[code](https://github.com/zhengchen1999/CAT)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/NIPS/NeurIPS_2022/Cross%20Aggregation%20Transformer%20for%20Image%20Restoration%20-%20Annotated.pdf)]
 - Pedestrian Trajectory Prediction in Heterogeneous Traffic using Facial Keypoints-based Convolutional Encoder-decoder Network, TOIT 2022 ```C3M3E1L1``` (Trajectory Pretiction) [[paper](https://dl.acm.org/doi/10.1145/3410444)] [[my repo](https://github.com/bryanbocao/papers/blob/master/trans/TOIT/TOIT_2022/Pedestrian%20Trajectory%20Prediction%20in%20Heterogeneous%20Traffic%20using%20Facial%20Keypoints-based%20Convolutional%20Encoder-decoder%20Network.pdf)]
