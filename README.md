@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Feb
-- Digging Into Self-Supervised Monocular Depth Estimation, ICCV 2019 ```C1M1E1L1``` (SSL, Depth Estimation) [[paper arXiv](https://arxiv.org/pdf/1806.01260.pdf)] [[code](www.github.com/nianticlabs/monodepth2)] [[YouTube](https://www.youtube.com/watch?v=sIN1Tp3wIbQ)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICCV/ICCV_2019/Digging%20Into%20Self-Supervised%20Monocular%20Depth%20Estimation.pdf)]
+- Digging Into Self-Supervised Monocular Depth Estimation, ICCV 2019 ```C2M2E1L1``` (SSL, Depth Estimation) [[paper arXiv](https://arxiv.org/pdf/1806.01260.pdf)] [[code](www.github.com/nianticlabs/monodepth2)] [[YouTube](https://www.youtube.com/watch?v=sIN1Tp3wIbQ)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICCV/ICCV_2019/Digging%20Into%20Self-Supervised%20Monocular%20Depth%20Estimation.pdf)]
 
 Y2023 Jan
 - Cross Aggregation Transformer for Image Restoration, NeurIPS 2022 ```C3M2E1L1``` (Image Restoration) [[paper arXiv](https://arxiv.org/pdf/2211.13654.pdf)] [[code](https://github.com/zhengchen1999/CAT)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/NIPS/NeurIPS_2022/Cross%20Aggregation%20Transformer%20for%20Image%20Restoration%20-%20Annotated.pdf)]
