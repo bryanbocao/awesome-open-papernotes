@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2023 Mar
+- Animal Recognition and Identification with Deep Convolutional Neural Networks for Automated Wildlife Monitoring, DSAA 2017 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8259762)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/DSAA/DSAA_2017/Animal%20Recognition%20and%20Identification%20with%20Deep%20Convolutional%20Neural%20Networks%20for%20Automated%20Wildlife%20Monitoring.pdf)]
+
 Y2023 Feb
 - Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth, ICLR 2021 ```C3M3E2L1``` (Representation Similarity) [[paper arXiv](https://github.com/AntixK/PyTorch-Model-Compare)] [[forum](https://openreview.net/forum?id=KJNcAkY8tY4)] [[code](https://github.com/AntixK/PyTorch-Model-Compare)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICLR/ICLR_2021/Do%20Wide%20and%20Deep%20Networks%20Learn%20the%20Same%20Things%3F%20Uncovering%20How%20Neural%20Network%20Representations%20Vary%20with%20Width%20and%20Depth.pdf)]
 - Siamese Neural Networks for One-shot Image Recognition, ICML 2015 ```C3M3E2L1``` (One-shot) [[paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)] [[code](https://github.com/nevoit/Siamese-Neural-Networks-for-One-shot-Image-Recognition)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICML/ICML_2015/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recognition.pdf)]
