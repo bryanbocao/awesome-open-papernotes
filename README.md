@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Mar
+- YOLOv7: Trainable Bag-of-freebies Sets New state-of-the-art for Real-time Object Detectors, CVPR 2023 ```C1M1E1L1``` (Efficient NN, Object Detection) [[paper arXiv](https://arxiv.org/pdf/2207.02696.pdf)] [[code](https://github.com/WongKinYiu/yolov7)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2023/YOLOv7-%20Trainable%20Bag-of-freebies%20Sets%20New%20state-of-the-art%20for%20Real-time%20Object%20Detectors.pdf)]
 - Layerwise Class-Aware Convolutional Neural Network, TOCIASFVT 2017 ```C2M2E1L1``` (Class-Aware) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7505898)] [[my repo](https://github.com/bryanbocao/papers/blob/master/trans/TOCIASFVT/TOCIASFVT_2017/Layerwise%20Class-Aware%20Convolutional%20Neural%20Network.pdf)]
 - Feature Statistics Guided Efficient Filter Pruning, IJCAI 2020 ```C2M2E1L1``` (Pruning) [[paper arXiv](https://arxiv.org/pdf/2005.12193.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/IJCAI/IJCAI_2020/Feature%20Statistics%20Guided%20Efficient%20Filter%20Pruning.pdf)]
 - Class-Discriminative CNN Compression, ICPR 2022 ```C2M2E1L1``` (Class-Aware Pruning) [[paper arXiv](https://arxiv.org/pdf/2110.10864.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICPR/ICPR_2022/Class-Discriminative%20CNN%20Compression.pdf)]
