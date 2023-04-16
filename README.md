@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2023 Apr
+- The Implicit Bias of Gradient Descent on Separable Data, JMLR 2018 ```C1M1E1L1``` (DL Theory) [[paper arXiv](https://arxiv.org/pdf/1710.10345.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/JMLR/JMLR_2018/The%20Implicit%20Bias%20of%20Gradient%20Descent%20on%20Separable%20Data.pdf)]
+
 Y2023 Mar
 - YOLOv7: Trainable Bag-of-freebies Sets New state-of-the-art for Real-time Object Detectors, CVPR 2023 ```C1M1E1L1``` (Efficient NN, Object Detection) [[paper arXiv](https://arxiv.org/pdf/2207.02696.pdf)] [[code](https://github.com/WongKinYiu/yolov7)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2023/YOLOv7-%20Trainable%20Bag-of-freebies%20Sets%20New%20state-of-the-art%20for%20Real-time%20Object%20Detectors.pdf)]
 - Layerwise Class-Aware Convolutional Neural Network, TOCIASFVT 2017 ```C2M2E1L1``` (Class-Aware) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7505898)] [[my repo](https://github.com/bryanbocao/papers/blob/master/trans/TOCIASFVT/TOCIASFVT_2017/Layerwise%20Class-Aware%20Convolutional%20Neural%20Network.pdf)]
