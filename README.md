@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Apr
-- GhostNet: More Features from Cheap Operations, CVPR 2020 ```C1M1E1L1``` (Efficient NN) [[paper arXiv](https://arxiv.org/pdf/1911.11907.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2020/GhostNet-%20More%20Features%20from%20Cheap%20Operations.pdf)]
+- GhostNet: More Features from Cheap Operations, CVPR 2020 ```C2M2E1L1``` (Efficient NN) [[paper arXiv](https://arxiv.org/pdf/1911.11907.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2020/GhostNet-%20More%20Features%20from%20Cheap%20Operations.pdf)]
 - AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles, SenSys 2022 ```C2M2E1L1``` (Autonomous Driving) [[paper](https://dl.acm.org/doi/abs/10.1145/3560905.3568519)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/SenSys/SenSys_2022/AutoMatch-%20Leveraging%20Traffic%20Camera%20to%20Improve%20Perception%20and%20Localization%20of%20Autonomous%20Vehicles.pdf)]
 - The Implicit Bias of Gradient Descent on Separable Data, JMLR 2018 ```C3M3E1L3``` (DL Theory) [[paper arXiv](https://arxiv.org/pdf/1710.10345.pdf)] [[my repo]
 - VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 2022 ```C2M2E1L1``` (Autonomous Driving) [[paper](https://dl.acm.org/doi/abs/10.1145/3495243.3560539)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/MobiCom/MobiCom_2022/VIPS-%20Real-Time%20Perception%20Fusion%20for%20Infrastructure-Assisted%20Autonomous%20Driving.pdf)]
