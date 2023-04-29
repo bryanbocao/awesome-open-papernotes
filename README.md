@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Apr
-- VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 2022 ```C1M1E1L1``` (Autonomous Driving) [[paper](https://dl.acm.org/doi/abs/10.1145/3495243.3560539)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/MobiCom/MobiCom_2022/VIPS-%20Real-Time%20Perception%20Fusion%20for%20Infrastructure-Assisted%20Autonomous%20Driving.pdf)]
+- VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 2022 ```C2M2E1L1``` (Autonomous Driving) [[paper](https://dl.acm.org/doi/abs/10.1145/3495243.3560539)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/MobiCom/MobiCom_2022/VIPS-%20Real-Time%20Perception%20Fusion%20for%20Infrastructure-Assisted%20Autonomous%20Driving.pdf)]
 - The Implicit Bias of Gradient Descent on Separable Data, JMLR 2018 ```C3M3E1L3``` (DL Theory) [[paper arXiv](https://arxiv.org/pdf/1710.10345.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/JMLR/JMLR_2018/The%20Implicit%20Bias%20of%20Gradient%20Descent%20on%20Separable%20Data.pdf)] [[my YouTube](https://youtu.be/4otvdyutIMQ)] [[my Bilibili](https://www.bilibili.com/video/BV1qV4y1Z79c/)]
 
 Y2023 Mar
