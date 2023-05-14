@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 May
+- End-to-End Human Pose and Mesh Reconstruction with Transformers, CVPR 2021 ```C1M1E1L1``` [[paper arXiv](https://arxiv.org/pdf/2012.09760.pdf)] [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_End-to-End_Human_Pose_and_Mesh_Reconstruction_with_Transformers_CVPR_2021_paper.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2021/End-to-End%20Human%20Pose%20and%20Mesh%20Reconstruction%20with%20Transformers.pdf)]
 - Deep Inertial Poser: Learning to Reconstruct Human Pose from Sparse Inertial Measurements in Real Time, TOG 2018 ```C3M3E1L1``` [[paper](https://dl.acm.org/doi/10.1145/3272127.3275108)] [[code](https://github.com/eth-ait/dip18)] [[my repo](https://github.com/bryanbocao/papers/blob/master/trans/TOG/TOG_2018/Deep%20Inertial%20Poser-%20Learning%20to%20Reconstruct%20Human%20Pose%20from%20Sparse%20Inertial%20Measurements%20in%20Real%20Time.pdf)]
 - Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices, TOMC 2021 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8863962)] [[my repo](https://github.com/bryanbocao/papers/blob/master/trans/TOMC/TOMC_2021/Augur-%20Modeling%20the%20Resource%20Requirements%20of%20ConvNets%20on%20Mobile%20Devices.pdf)]
 
