@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 May
+- MoSh: Motion and Shape Capture from Sparse Markers, TOG 2014 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/10.1145/2661229.2661273)] [[paper pdf](https://files.is.tue.mpg.de/black/papers/MoSh.pdf)]
 - Learning a Pedestrian Social Behavior Dictionary, CHI 2023 ```C2M1E1L1``` [[paper arXiv](https://arxiv.org/pdf/2212.01426.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/Learning%20a%20Pedestrian%20Social%20Behavior%20Dictionary.pdf)]
 - IMUPoser: Full-Body Pose Estimation using IMUs in Phones, Watches,and Earbuds, CHI 2023 ```C2M2E1L1``` [[paper arXiv](https://arxiv.org/pdf/2304.12518.pdf)] [[paper](https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581392)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CHI/CHI_2023/IMUPoser-%20Full-Body%20Pose%20Estimation%20using%20IMUs%20in%20Phones%2C%20Watches%2Cand%20Earbuds.pdf)]
 - End-to-End Human Pose and Mesh Reconstruction with Transformers, CVPR 2021 ```C1M1E1L1``` [[paper arXiv](https://arxiv.org/pdf/2012.09760.pdf)] [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_End-to-End_Human_Pose_and_Mesh_Reconstruction_with_Transformers_CVPR_2021_paper.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2021/End-to-End%20Human%20Pose%20and%20Mesh%20Reconstruction%20with%20Transformers.pdf)]
