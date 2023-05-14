@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 May
-- Deep Inertial Poser: Learning to Reconstruct Human Pose from Sparse Inertial Measurements in Real Time, TOG 2018 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/10.1145/3272127.3275108)] [[code](https://github.com/eth-ait/dip18)] [[my repo](https://github.com/bryanbocao/papers/blob/master/trans/TOG/TOG_2018/Deep%20Inertial%20Poser-%20Learning%20to%20Reconstruct%20Human%20Pose%20from%20Sparse%20Inertial%20Measurements%20in%20Real%20Time.pdf)]
+- Deep Inertial Poser: Learning to Reconstruct Human Pose from Sparse Inertial Measurements in Real Time, TOG 2018 ```C3M3E1L1``` [[paper](https://dl.acm.org/doi/10.1145/3272127.3275108)] [[code](https://github.com/eth-ait/dip18)] [[my repo](https://github.com/bryanbocao/papers/blob/master/trans/TOG/TOG_2018/Deep%20Inertial%20Poser-%20Learning%20to%20Reconstruct%20Human%20Pose%20from%20Sparse%20Inertial%20Measurements%20in%20Real%20Time.pdf)]
 - Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices, TOMC 2021 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8863962)] [[my repo](https://github.com/bryanbocao/papers/blob/master/trans/TOMC/TOMC_2021/Augur-%20Modeling%20the%20Resource%20Requirements%20of%20ConvNets%20on%20Mobile%20Devices.pdf)]
 
 Y2023 Apr
