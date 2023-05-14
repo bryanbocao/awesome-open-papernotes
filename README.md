@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2023 May
+- Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices, TOMC 2021 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/8863962)] [[my repo](https://github.com/bryanbocao/papers/blob/master/trans/TOMC/TOMC_2021/Augur-%20Modeling%20the%20Resource%20Requirements%20of%20ConvNets%20on%20Mobile%20Devices.pdf)]
+
 Y2023 Apr
 - Hardware-friendly Deep Learning by Network Quantization and Binarization, IJCAI 2021 ```C1M1E1L1``` (Binary NN, Quantization) [[paper](https://www.ijcai.org/proceedings/2021/0687.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/IJCAI/IJCAI_2021/Hardware-friendly%20Deep%20Learning%20by%20Network%20Quantization%20and%20Binarization.pdf)]
 - SiFall: Practical Online Fall Detection with RF Sensing, SenSys 2022 ```C1M1E1L1``` (RF, Fall Detection) [[paper](https://dl.acm.org/doi/abs/10.1145/3560905.3568517)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/SenSys/SenSys_2022/SiFall-%20Practical%20Online%20Fall%20Detection%20with%20RF%20Sensing.pdf)]
