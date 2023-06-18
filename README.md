@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Jun
-- Avatar Poser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing, ECCV 2022 ```C2M2E2L1``` [[paper arXiv](https://arxiv.org/pdf/2207.13784.pdf)] [[website](https://sites.google.com/view/mrp-net)] [[code](https://github.com/eth-siplab/AvatarPoser)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ECCV/ECCV_2022/Avatar%20Poser-%20Articulated%20Full-Body%20Pose%20Tracking%20from%20Sparse%20Motion%20Sensing.pdf)]
+- Avatar Poser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing, ECCV 2022 ```C3M2E2L1``` [[note](https://github.com/bryanbocao/open-papernotes/blob/master/notes/confs/ECCV/ECCV_2022/Avatar%20Poser%3A%20Articulated%20Full-Body%20Pose%20Tracking%20from%20Sparse%20Motion%20Sensing.md)] [[paper arXiv](https://arxiv.org/pdf/2207.13784.pdf)] [[website](https://sites.google.com/view/mrp-net)] [[code](https://github.com/eth-siplab/AvatarPoser)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ECCV/ECCV_2022/Avatar%20Poser-%20Articulated%20Full-Body%20Pose%20Tracking%20from%20Sparse%20Motion%20Sensing.pdf)]
 
 Y2023 May
 - Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation, CVPR 2022 ```C1M1E1L1``` [[paper](https://www.computer.org/csdl/proceedings-article/cvpr/2022/694600u0416/1H1jS6lJcaY)] [[paper arXiv](https://arxiv.org/pdf/2203.15293.pdf)] [[website](https://sites.google.com/view/mrp-net)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2022/Uncertainty-Aware%20Adaptation%20for%20Self-Supervised%203D%20Human%20Pose%20Estimation.pdf)]
