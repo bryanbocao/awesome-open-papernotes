@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2023 Jun
+- Avatar Poser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing, ECCV 2022 ```C1M1E1L1``` [[paper arXiv](https://arxiv.org/pdf/2207.13784.pdf)] [[website](https://sites.google.com/view/mrp-net)] [[code](https://github.com/eth-siplab/AvatarPoser)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ECCV/ECCV_2022/Avatar%20Poser-%20Articulated%20Full-Body%20Pose%20Tracking%20from%20Sparse%20Motion%20Sensing.pdf)]
+
 Y2023 May
 - Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation, CVPR 2022 ```C1M1E1L1``` [[paper](https://www.computer.org/csdl/proceedings-article/cvpr/2022/694600u0416/1H1jS6lJcaY)] [[paper arXiv](https://arxiv.org/pdf/2203.15293.pdf)] [[website](https://sites.google.com/view/mrp-net)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2022/Uncertainty-Aware%20Adaptation%20for%20Self-Supervised%203D%20Human%20Pose%20Estimation.pdf)]
 - SMPL: A Skinned Multi-Person Linear Model, TOG 2015 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/10.1145/2816795.2818013)] [[paper pdf](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)]
