@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Jun
+- Understanding a Deep Neural Network Based on Neural-Path Coding, Access 2020 ```C1M1E1L1``` [[paper](https://ieeexplore.ieee.org/document/9199862)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/Access/Access_2020/Understanding%20a%20Deep%20Neural%20Network%20Based%20on%20Neural-Path%20Coding.pdf)]
 - Learning Efficient Convolutional Networks through Network Slimming, ICCV 2017 ```C2M2E1L1``` [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.pdf)] [[code](https://github.com/liuzhuang13/slimming)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICCV/ICCV_2017/Learning%20Efficient%20Convolutional%20Networks%20through%20Network%20Slimming.pdf)]
 - Avatar Poser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing, ECCV 2022 ```C3M2E2L1``` [[note](https://github.com/bryanbocao/open-papernotes/blob/master/notes/confs/ECCV/ECCV_2022/Avatar%20Poser%3A%20Articulated%20Full-Body%20Pose%20Tracking%20from%20Sparse%20Motion%20Sensing.md)] [[paper arXiv](https://arxiv.org/pdf/2207.13784.pdf)] [[website](https://sites.google.com/view/mrp-net)] [[code](https://github.com/eth-siplab/AvatarPoser)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ECCV/ECCV_2022/Avatar%20Poser-%20Articulated%20Full-Body%20Pose%20Tracking%20from%20Sparse%20Motion%20Sensing.pdf)]
 
