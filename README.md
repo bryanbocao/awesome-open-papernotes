@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Jul
+- Learning both Weights and Connections for Efficient, NIPS 2015 ```C1M1E1L1``` (Efficient NN, Pruning) [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/ae0eb3eed39d2bcef4622b2499a05fe6-Paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/1506.02626.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/NIPS/NIPS_2015/Learning%20both%20Weights%20and%20Connections%20for%20Efficient.pdf)]
 - Network In Network, 2014 ```C2M1E1L1``` (Efficient NN) [[paper arXiv](https://arxiv.org/pdf/1312.4400.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/Network%20In%20Network%20-%20Annotated.pdf)]
 - Pruning Filters for Efficient ConvNets, ICLR 2017 ```C3M3E2L1``` (Efficient NN, Pruning) [[paper](https://openreview.net/pdf?id=rJqFGTslg)] [[paper arXiv](https://arxiv.org/pdf/1608.08710.pdf)] [[forum](https://openreview.net/forum?id=rJqFGTslg)] [[code](https://github.com/tyui592/Pruning_filters_for_efficient_convnets)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICLR/ICLR_2017/Pruning%20Filters%20for%20Efficient%20ConvNets.pdf)]
 
