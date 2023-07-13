@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2023 Jul
+- Pruning Filters for Efficient ConvNets, ICLR 2017 ```C1M1E1L1``` (Efficient NN, Pruning) [[paper](https://openreview.net/pdf?id=rJqFGTslg)] [[paper arXiv](https://arxiv.org/pdf/1608.08710.pdf)] [[forum](https://openreview.net/forum?id=rJqFGTslg)] [[code](https://github.com/tyui592/Pruning_filters_for_efficient_convnets)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICLR/ICLR_2017/Pruning%20Filters%20for%20Efficient%20ConvNets.pdf)]
+
 Y2023 Jun
 - Understanding a Deep Neural Network Based on Neural-Path Coding, Access 2020 ```C3M3E1L1``` [[paper](https://ieeexplore.ieee.org/document/9199862)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/Access/Access_2020/Understanding%20a%20Deep%20Neural%20Network%20Based%20on%20Neural-Path%20Coding.pdf)]
 - Learning Efficient Convolutional Networks through Network Slimming, ICCV 2017 ```C2M2E1L1``` [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.pdf)] [[code](https://github.com/liuzhuang13/slimming)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICCV/ICCV_2017/Learning%20Efficient%20Convolutional%20Networks%20through%20Network%20Slimming.pdf)]
