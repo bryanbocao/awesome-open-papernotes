@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2023 Aug
+- ViNG: Learning Open-World Navigation with Visual Goals, ICRA 2021 ```C1M1E1L1``` (Visual Navigation) [[paper arXiv](https://arxiv.org/pdf/2012.09812.pdf)] [[website](https://sites.google.com/view/ving-robot)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICRA/ICRA_2021/ViNG-%20Learning%20Open-World%20Navigation%20with%20Visual%20Goals.pdf)]
+
 Y2023 Jul
 - Learning both Weights and Connections for Efficient, NIPS 2015 ```C2M2E1L1``` (Efficient NN, Pruning) [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/ae0eb3eed39d2bcef4622b2499a05fe6-Paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/1506.02626.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/NIPS/NIPS_2015/Learning%20both%20Weights%20and%20Connections%20for%20Efficient.pdf)]
 - Network In Network, 2014 ```C2M1E1L1``` (Efficient NN) [[paper arXiv](https://arxiv.org/pdf/1312.4400.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/Network%20In%20Network%20-%20Annotated.pdf)]
