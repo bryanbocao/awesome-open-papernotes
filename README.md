@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Aug
+- One-4-All: Neural Potential Fields for Embodied Navigation, arXiv 2023 ```C1M1E1L1``` (RL) [[paper arXiv](https://arxiv.org/pdf/2303.04011.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/One-4-All-%20Neural%20Potential%20Fields%20for%20Embodied%20Navigation.pdf)]
 - FeUdal Networks for Hierarchical Reinforcement Learning, ICML 2017 ```C1M1E1L1``` (RL) [[paper arXiv](https://arxiv.org/pdf/1703.01161.pdf)] [[paper](http://proceedings.mlr.press/v70/vezhnevets17a/vezhnevets17a.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICML/ICML_2017/FeUdal%20Networks%20for%20Hierarchical%20Reinforcement%20Learning.pdf)]
 - ViNG: Learning Open-World Navigation with Visual Goals, ICRA 2021 ```C2M1E1L1``` (Visual Navigation) [[paper arXiv](https://arxiv.org/pdf/2012.09812.pdf)] [[website](https://sites.google.com/view/ving-robot)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICRA/ICRA_2021/ViNG-%20Learning%20Open-World%20Navigation%20with%20Visual%20Goals.pdf)]
 
