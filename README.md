@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Sep
+- Metric-Free Exploration for Topological Mapping by Task and Motion Imitation in Feature Space, RSS 2023 ```C1M1E1L1``` (Visual Navigation) [[paper](https://roboticsconference.org/program/papers/099/)] [[paper arXiv](https://arxiv.org/pdf/2303.09192.pdf)] [[website](https://ai4ce.github.io/DeepExplorer/)] [[code](https://github.com/ai4ce/DeepExplorer)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/RSS/RSS_2023/Metric-Free%20Exploration%20for%20Topological%20Mapping%20by%20Task%20and%20Motion%20Imitationin%20Feature%20Space.pdf)]
 - Unsupervised Learning of Visual Features by Contrasting Cluster Assignments, NeurIPS 2020 ```C1M1E1L1``` (Contrastive Learning, SSL) [[paper](https://proceedings.neurips.cc/paper/2020/file/70feb62b69f16e0238f741fab228fec2-Paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/2006.09882.pdf)] [[code](https://github.com/facebookresearch/swav)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/NIPS/NeurIPS_2020/Unsupervised%20Learning%20of%20Visual%20Features%20by%20Contrasting%20Cluster%20Assignments.pdf)]
 
 Y2023 Aug
