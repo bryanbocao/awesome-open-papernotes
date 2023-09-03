@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2023 Sep
+- Unsupervised Learning of Visual Features by Contrasting Cluster Assignments, NeurIPS 2020 ```C1M1E1L1``` (Contrastive Learning, SSL) [[paper](https://proceedings.neurips.cc/paper/2020/file/70feb62b69f16e0238f741fab228fec2-Paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/2006.09882.pdf)] [[code](https://github.com/facebookresearch/swav)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/NIPS/NeurIPS_2020/Unsupervised%20Learning%20of%20Visual%20Features%20by%20Contrasting%20Cluster%20Assignments.pdf)]
+
 Y2023 Aug
 - Deep Reinforcement Learning from Human Preferences, NIPS 2017 ```C2M1E1L1``` (RL) [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/1706.03741.pdf)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/NIPS/NIPS_2017/Deep%20Reinforcement%20Learning%20from%20Human%20Preferences.pdf)]
 - From Cognitive Maps to Cognitive Graphs, PLOS 2014 ```C1M1E1L1``` (Cognitive Graphs) [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112544)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/PLOS/PLOS_2014/From%20Cognitive%20Maps%20to%20Cognitive%20Graphs.pdf)]
