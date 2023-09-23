@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Sep
+- Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism, NeurIPS 2023 ```C1M1E1L1``` [[paper arXiv](https://arxiv.org/pdf/2309.11331v2.pdf)] [[code](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO)]
 - INFaaS: Automated Model-less Inference Serving, USENIX 2021 ```C3M2E1L1``` [[paper](https://www.usenix.org/system/files/atc21-romero.pdf)] [[video](https://www.youtube.com/watch?v=RESxG1c2DYY)] [[code](https://github.com/stanford-mast/INFaaS)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/USENIX/USENIX_2021/INFaaS-%20Automated%20Model-less%20Inference%20Serving.pdf)]
 - Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text, 2023 ```C1M1E1L1``` [[paper arXiv](https://arxiv.org/pdf/2304.06939.pdf)] [[dataset](https://www.tensorflow.org/datasets/catalog/c4)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/Multimodal%20C4-%20An%20Open%2C%20Billion-scale%20Corpus%20of%20Images%20Interleaved%20with%20Text.pdf)]
 - DQN-TAMER: Human-in-the-Loop Reinforcement Learning with Intractable Feedback, 2018 ```C3M3E3L1``` [[paper arXiv](https://arxiv.org/pdf/1810.11748.pdf)] [[video](https://www.youtube.com/watch?v=o25x51eHf7s)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/DQN-TAMER-%20Human-in-the-Loop%20Reinforcement%20Learning%20with%20Intractable%20Feedback.pdf)]
