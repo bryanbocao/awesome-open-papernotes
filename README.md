@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Oct
-- Robot Learning with Sensorimotor Pre-training, 2023 ```C1M1E1L1``` [[paper arXiv](https://arxiv.org/pdf/2306.10007.pdf)] [[website](https://robotic-pretrained-transformer.github.io/)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/Robot%20Learning%20with%20Sensorimotor%20Pre-training.pdf)]
+- Robot Learning with Sensorimotor Pre-training, 2023 ```C3M2E1L1``` [[paper arXiv](https://arxiv.org/pdf/2306.10007.pdf)] [[website](https://robotic-pretrained-transformer.github.io/)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/Robot%20Learning%20with%20Sensorimotor%20Pre-training.pdf)]
 
 Y2023 Sep
 - Towards Memory-Efficient Inference in Edge Video Analytics, HotEdgeVideo 2021 ```C3M3E1L2``` [[paper](https://dl.acm.org/doi/10.1145/3477083.3480150)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/HotEdgeVideo/HotEdgeVideo_2021/Towards%20Memory-Efficient%20Inference%20in%20Edge%20Video%20Analytics.pdf)]
