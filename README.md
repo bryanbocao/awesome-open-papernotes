@@ -46,6 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2023 Oct
+- DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation, ICCV 2023 ```C1M1E1L1``` (BEV, Knowledge Distillation) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DistillBEV_Boosting_Multi-Camera_3D_Object_Detection_with_Cross-Modal_Knowledge_Distillation_ICCV_2023_paper.pdf)] [[code](https://github.com/qcraftai/distill-bev)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICCV/ICCV_2023/DistillBEV-%20Boosting%20Multi-Camera%203D%20Object%20Detection%20with%20Cross-Modal%20Knowledge%20Distillation.pdf)]
 - Robot Learning with Sensorimotor Pre-training, 2023 ```C3M2E1L1``` [[paper arXiv](https://arxiv.org/pdf/2306.10007.pdf)] [[website](https://robotic-pretrained-transformer.github.io/)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/Robot%20Learning%20with%20Sensorimotor%20Pre-training.pdf)]
 
 Y2023 Sep
