@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2023 Nov
+- Match Cutting: Finding Cuts with Smooth Visual Transitions, WACV 2023 ```C1M1E1L1``` (Multimodal, Contrastive Learning) [[paper arXiv](https://arxiv.org/pdf/2210.05766.pdf)] [[code](https://github.com/netflix/matchcut)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/MobileNets-%20Efficient%20Convolutional%20Neural%20Networks%20for%20Mobile%20Vision%20Applications.pdf)]
+
 Y2023 Oct
 - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, 2017 ```C3M2E1L1``` (Efficient NN) [[paper arXiv](https://arxiv.org/abs/1704.04861)] [[code tf](https://www.tensorflow.org/api_docs/python/tf/keras/applications/mobilenet/MobileNet)] [[code](https://github.com/Zehaos/MobileNet)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/MobileNets-%20Efficient%20Convolutional%20Neural%20Networks%20for%20Mobile%20Vision%20Applications.pdf)]
 - Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Business, MobiCom 2022 ```C1M1E1L1``` [[paper](https://dl.acm.org/doi/10.1145/3410670.3410861)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/MobiCom/MobiCom_2022/Experience-%20Adopting%20Indoor%20Outdoor%20Detection%20in%20On-demand%20Food%20Delivery%20Business.pdf)]
