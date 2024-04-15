@@ -1,4 +1,4 @@
-# open-papernotes
+# Awesome Open Papernotes
 
 This idea of paper notes was inspired by [Hongjie Peng](https://scholar.google.com/citations?user=vr8W0MgAAAAJ&hl=en), and the methodology of taking notes was inspired by [Qi Zeng](https://github.com/pkuzengqi), [Daniel Seita](https://github.com/DanielTakeshi/Paper_Notes), [Adrian Colyer](https://blog.acolyer.org/about/) and [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes).
 
