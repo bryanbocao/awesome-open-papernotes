@@ -45,6 +45,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 [abhineet123's Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Recent Notes
+Y2025 Jan
+- Uncertainty-Aware Topological Persistence Guided Knowledge Distillation on Wearable Sensor Data, IoT 2024 ```C1M1E1L1``` (Knowledge Distillation) [[paper](https://ieeexplore.ieee.org/document/10554649)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/IoT/IoT_2024/Uncertainty-Aware%20Topological%20Persistence%20Guided%20Knowledge%20Distillation%20on%20Wearable%20Sensor%20Data.pdf)]
+
 Y2023 Nov
 - Match Cutting: Finding Cuts with Smooth Visual Transitions, WACV 2023 ```C1M1E1L1``` (Multimodal, Contrastive Learning) [[paper arXiv](https://arxiv.org/pdf/2210.05766.pdf)] [[code](https://github.com/netflix/matchcut)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/MobileNets-%20Efficient%20Convolutional%20Neural%20Networks%20for%20Mobile%20Vision%20Applications.pdf)]
 
