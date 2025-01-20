@@ -48,6 +48,9 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 Y2025 Jan
 - Uncertainty-Aware Topological Persistence Guided Knowledge Distillation on Wearable Sensor Data, IoT 2024 ```C1M1E1L1``` (Knowledge Distillation) [[paper](https://ieeexplore.ieee.org/document/10554649)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/IoT/IoT_2024/Uncertainty-Aware%20Topological%20Persistence%20Guided%20Knowledge%20Distillation%20on%20Wearable%20Sensor%20Data.pdf)]
 
+Y2024 Dec
+- PepperPose: Full-Body Pose Estimation with a Companion Robot, CHI 2024 ```C1M1E1L1``` (Pose Estimation, Active Camera) [[paper](https://dl.acm.org/doi/10.1145/3613904.3642231)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CHI/CHI_2024/PepperPose-%20Full-Body%20Pose%20Estimation%20with%20a%20Companion%20Robot.pdf)]
+
 Y2023 Nov
 - Match Cutting: Finding Cuts with Smooth Visual Transitions, WACV 2023 ```C1M1E1L1``` (Multimodal, Contrastive Learning) [[paper arXiv](https://arxiv.org/pdf/2210.05766.pdf)] [[code](https://github.com/netflix/matchcut)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/MobileNets-%20Efficient%20Convolutional%20Neural%20Networks%20for%20Mobile%20Vision%20Applications.pdf)]
 
