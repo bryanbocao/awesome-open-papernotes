@@ -55,6 +55,9 @@ Y2024 Dec
 Y2024 Nov
 - Loose Inertial Poser: Motion Capture with IMU-attached Loose-Wear Jacket, CVPR 2024 ```C1M1E1L1``` (Human Pose Estimation, Sparse IMU) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zuo_Loose_Inertial_Poser_Motion_Capture_with_IMU-attached_Loose-Wear_Jacket_CVPR_2024_paper.pdf)] [[code](https://github.com/ZuoCX1996/Loose-Inertial-Poser)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2024/Loose%20Inertial%20Poser-%20Motion%20Capture%20with%20IMU-attached%20Loose-Wear%20Jacket.pdf)]
 
+Y2024 Sep
+- DiffusionPoser: Real-time Human Motion Reconstruction From Arbitrary Sparse Sensors Using Autoregressive Diffusion, CVPR 2024 ```C1M1E1L1``` (Human Pose Estimation, Sparse IMU) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Van_Wouwe_DiffusionPoser_Real-time_Human_Motion_Reconstruction_From_Arbitrary_Sparse_Sensors_Using_CVPR_2024_paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/2308.16682)] [[website](https://diffusionposer.github.io/)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2024/DiffusionPoser-%20Real-time%20Human%20Motion%20Reconstruction%20From%20Arbitrary%20Sparse%20Sensors%20Using%20Autoregressive%20Diffusion.pdf)]
+
 Y2023 Nov
 - Match Cutting: Finding Cuts with Smooth Visual Transitions, WACV 2023 ```C1M1E1L1``` (Multimodal, Contrastive Learning) [[paper arXiv](https://arxiv.org/pdf/2210.05766.pdf)] [[code](https://github.com/netflix/matchcut)] [[my repo](https://github.com/bryanbocao/papers/blob/master/others/MobileNets-%20Efficient%20Convolutional%20Neural%20Networks%20for%20Mobile%20Vision%20Applications.pdf)]
 
