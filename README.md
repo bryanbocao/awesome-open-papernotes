@@ -55,6 +55,9 @@ Y2024 Dec
 Y2024 Nov
 - Loose Inertial Poser: Motion Capture with IMU-attached Loose-Wear Jacket, CVPR 2024 ```C1M1E1L1``` (Human Pose Estimation, Sparse IMU) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zuo_Loose_Inertial_Poser_Motion_Capture_with_IMU-attached_Loose-Wear_Jacket_CVPR_2024_paper.pdf)] [[code](https://github.com/ZuoCX1996/Loose-Inertial-Poser)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2024/Loose%20Inertial%20Poser-%20Motion%20Capture%20with%20IMU-attached%20Loose-Wear%20Jacket.pdf)]
 
+Y2024 Oct
+- AMASS: Archive of Motion Capture as Surface Shapes, ICCV 2019 ```C1M1E1L1``` (Dataset, Human Pose) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Mahmood_AMASS_Archive_of_Motion_Capture_As_Surface_Shapes_ICCV_2019_paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/1904.03278)] [[code](https://github.com/ZuoCX1996/Loose-Inertial-Poser)] [[website](https://amass.is.tue.mpg.de/)] [[video](https://www.youtube.com/watch?v=cceRrlnTCEs)] [[code](https://github.com/nghorbani/amass)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ICCV/ICCV_2019/AMASS-%20Archive%20of%20Motion%20Capture%20as%20Surface%20Shapes.pdf)]
+
 Y2024 Sep
 - DiffusionPoser: Real-time Human Motion Reconstruction From Arbitrary Sparse Sensors Using Autoregressive Diffusion, CVPR 2024 ```C1M1E1L1``` (Human Pose Estimation, Sparse IMU) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Van_Wouwe_DiffusionPoser_Real-time_Human_Motion_Reconstruction_From_Arbitrary_Sparse_Sensors_Using_CVPR_2024_paper.pdf)] [[paper arXiv](https://arxiv.org/pdf/2308.16682)] [[website](https://diffusionposer.github.io/)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CVPR/CVPR_2024/DiffusionPoser-%20Real-time%20Human%20Motion%20Reconstruction%20From%20Arbitrary%20Sparse%20Sensors%20Using%20Autoregressive%20Diffusion.pdf)]
 
