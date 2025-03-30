@@ -46,7 +46,7 @@ All papers are included in my previous repo [papers](https://github.com/BryanBo-
 
 ### Recent Notes
 Y2025 Feb
-- ActivityPoser: Activity driven Full-Body Pose Estimation from Sparse IMU Configurations, SUI 2022 ```C1M1E1L1``` (Human Pose Estimation, Sparse IMU) [[paper](https://dl.acm.org/doi/10.1145/3565970.3567687)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/SUI/SUI_2022/ActivityPoser-%20Activity%20driven%20Full-Body%20Pose%20Estimation%20from%20Sparse%20IMU%20Configurations.pdf)]
+- ActivityPoser: Activity driven Full-Body Pose Estimation from Sparse IMU Configurations, SUI 2022 ```C2M1E1L1``` (Human Pose Estimation, Sparse IMU) [[paper](https://dl.acm.org/doi/10.1145/3565970.3567687)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/SUI/SUI_2022/ActivityPoser-%20Activity%20driven%20Full-Body%20Pose%20Estimation%20from%20Sparse%20IMU%20Configurations.pdf)]
 
 Y2025 Jan
 - Uncertainty-Aware Topological Persistence Guided Knowledge Distillation on Wearable Sensor Data, IoT 2024 ```C3M3E2L1``` (Knowledge Distillation) [[paper](https://ieeexplore.ieee.org/document/10554649)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/IoT/IoT_2024/Uncertainty-Aware%20Topological%20Persistence%20Guided%20Knowledge%20Distillation%20on%20Wearable%20Sensor%20Data.pdf)]
