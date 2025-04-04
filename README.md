@@ -52,7 +52,7 @@ Y2025 Jan
 - Uncertainty-Aware Topological Persistence Guided Knowledge Distillation on Wearable Sensor Data, IoT 2024 ```C3M3E2L2``` (Knowledge Distillation) [[paper](https://ieeexplore.ieee.org/document/10554649)] [[my repo](https://github.com/bryanbocao/papers/blob/master/journals/IoT/IoT_2024/Uncertainty-Aware%20Topological%20Persistence%20Guided%20Knowledge%20Distillation%20on%20Wearable%20Sensor%20Data.pdf)]
 
 Y2024 Dec
-- WheelPoser: Sparse-IMU Based Body Pose Estimation for Wheelchair Users, ASSETS 2024 ```C2M2E1L1``` (Human Pose Estimation, Sparse IMU) [[paper](https://dl.acm.org/doi/10.1145/3663548.3675638)] [[paper_arXiv](https://arxiv.org/pdf/2409.08494)] [[code](https://github.com/axle-lab/WheelPoser)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ASSETS/ASSETS_2024/WheelPoser-%20Sparse-IMU%20Based%20Body%20Pose%20Estimation%20for%20Wheelchair%20Users.pdf)]
+- WheelPoser: Sparse-IMU Based Body Pose Estimation for Wheelchair Users, ASSETS 2024 ```C3M2E1L1``` (Human Pose Estimation, Sparse IMU) [[paper](https://dl.acm.org/doi/10.1145/3663548.3675638)] [[paper_arXiv](https://arxiv.org/pdf/2409.08494)] [[code](https://github.com/axle-lab/WheelPoser)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/ASSETS/ASSETS_2024/WheelPoser-%20Sparse-IMU%20Based%20Body%20Pose%20Estimation%20for%20Wheelchair%20Users.pdf)]
 - PepperPose: Full-Body Pose Estimation with a Companion Robot, CHI 2024 ```C2M2E1L1``` (Pose Estimation, Active Camera) [[paper](https://dl.acm.org/doi/10.1145/3613904.3642231)] [[my repo](https://github.com/bryanbocao/papers/blob/master/confs/CHI/CHI_2024/PepperPose-%20Full-Body%20Pose%20Estimation%20with%20a%20Companion%20Robot.pdf)]
 
 Y2024 Nov
